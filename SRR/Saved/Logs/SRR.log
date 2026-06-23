@@ -2445,3 +2445,24 @@ Script Stack (0 frames) :
 [2026.06.23-18.10.30:196][ 38]LogStats:                SubmitErrorReport -  0.000 s
 [2026.06.23-18.10.31:544][ 38]LogStats:                    SendNewReport -  1.348 s
 [2026.06.23-18.10.31:544][ 38]LogStats:             FDebug::EnsureFailed -  1.407 s
+[2026.06.23-18.11.08:809][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.06.23-18.11.08:811][696]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.009
+[2026.06.23-18.11.08:812][696]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Starter_Birds01] ([1] browsable assets)...
+[2026.06.23-18.11.08:818][696]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01]
+[2026.06.23-18.11.08:818][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Starter_Birds01]
+[2026.06.23-18.11.08:821][696]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Audio/Starter_Birds01_Auto1
+[2026.06.23-18.11.08:821][696]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Starter_Birds01_Auto184DB73764F714E80C145F0BA7EBD3FED.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/StarterContent/Audio/Starter_Birds01_Auto1.uasset'
+[2026.06.23-18.11.08:822][696]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Starter_Wind05] ([1] browsable assets)...
+[2026.06.23-18.11.08:827][696]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05]
+[2026.06.23-18.11.08:827][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Starter_Wind05]
+[2026.06.23-18.11.08:830][696]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Audio/Starter_Wind05_Auto1
+[2026.06.23-18.11.08:830][696]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Starter_Wind05_Auto19C860B584C10BB7042DC77B09E31F881.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/StarterContent/Audio/Starter_Wind05_Auto1.uasset'
+[2026.06.23-18.11.08:830][696]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Starter_Wind06] ([1] browsable assets)...
+[2026.06.23-18.11.08:836][696]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06]
+[2026.06.23-18.11.08:836][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Starter_Wind06]
+[2026.06.23-18.11.08:838][696]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Audio/Starter_Wind06_Auto1
+[2026.06.23-18.11.08:838][696]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Starter_Wind06_Auto1ECD296754C920989C3F94BAB3DEABFAB.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/StarterContent/Audio/Starter_Wind06_Auto1.uasset'
+[2026.06.23-18.11.08:839][696]LogFileHelpers: Auto-saving content packages took 0.028
+[2026.06.23-18.15.12:112][512]LogSlate: Window 'Content Browser' being destroyed
+[2026.06.23-18.15.12:118][512]LogSlate: Window 'Content Browser' being destroyed
+[2026.06.23-18.19.34:087][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
