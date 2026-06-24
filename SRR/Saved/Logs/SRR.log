@@ -12593,3 +12593,190 @@ Script Stack (0 frames) :
 [2026.06.24-11.38.19:454][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 5.94 sec)
 [2026.06.24-11.38.19:459][852]AssetCheck: New page: Asset Save: BP_SkyRelicGameMode
 [2026.06.24-11.38.19:459][852]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameModes/BP_SkyRelicGameMode.BP_SkyRelicGameMode
+[2026.06.24-11.39.53:353][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.24-11.39.53:357][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF_Auto1
+[2026.06.24-11.39.53:357][228]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/TYLYWZDEMGWAY2ECSL8PRF_Auto1DF8BDB3946FBF810F3418F9DF1A3C46E.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF_Auto1.uasset'
+[2026.06.24-11.39.53:359][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU_Auto1
+[2026.06.24-11.39.53:359][228]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/0V6PBNZNY0O85C44XVVCQU_Auto13257B4BC4F3B96E8089F699FECE2E149.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU_Auto1.uasset'
+[2026.06.24-11.39.53:361][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA_Auto1
+[2026.06.24-11.39.53:361][228]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/6DGNQG2PPWRPCGUJLGIFVA_Auto1FB9EB3414763851C0A87DCAEB5157A60.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA_Auto1.uasset'
+[2026.06.24-11.39.53:363][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V_Auto1
+[2026.06.24-11.39.53:363][228]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/YMOMQCJ7NP16V8KLG5L37V_Auto12AB0C9A340D45A14BF0D5788DB46BCA1.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V_Auto1.uasset'
+[2026.06.24-11.39.53:365][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW_Auto1
+[2026.06.24-11.39.53:365][228]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/01T6PXZGPMWYRBL4D1HLJW_Auto186110B834184CE1C8F68C8849B3CD77E.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW_Auto1.uasset'
+[2026.06.24-11.39.53:366][228]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2026.06.24-11.39.53:366][228]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2026.06.24-11.47.29:232][596]LogDerivedDataCache: C:/Users/Aorus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.037 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 917 files in 1534 folders with total size 25 MiB.
+[2026.06.24-11.49.58:772][ 45]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.24-11.49.58:772][ 45]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.24-11.53.35:589][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.06.24-11.53.35:607][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.06.24-11.53.39:724][685]LogSlate: Window 'Save Content' being destroyed
+[2026.06.24-11.53.39:731][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-11.53.39:755][685]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V
+[2026.06.24-11.53.39:755][685]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/YMOMQCJ7NP16V8KLG5L37VC86503E444406EC1CBC3FA979AAFA0D3.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V.uasset'
+[2026.06.24-11.53.39:758][685]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW
+[2026.06.24-11.53.39:758][685]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/01T6PXZGPMWYRBL4D1HLJW65FEA32447E7BF5AD718B1855E5B8E66.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW.uasset'
+[2026.06.24-11.53.39:760][685]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU
+[2026.06.24-11.53.39:761][685]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/0V6PBNZNY0O85C44XVVCQU90748A044B91DCEE84EE21A4C675E130.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU.uasset'
+[2026.06.24-11.53.39:762][685]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF
+[2026.06.24-11.53.39:764][685]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/TYLYWZDEMGWAY2ECSL8PRFDA5B3698437ABFAB17B5048F7B54D5B1.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF.uasset'
+[2026.06.24-11.53.39:766][685]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA
+[2026.06.24-11.53.39:766][685]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/6DGNQG2PPWRPCGUJLGIFVA7E5E23AE44A1770F414A6AB95E8A2B28.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA.uasset'
+[2026.06.24-11.53.39:774][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 5.98 sec)
+[2026.06.24-11.53.39:804][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-11.53.39:805][685]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Level_02.Level_02
+[2026.06.24-11.53.39:805][685]Cmd: MAP LOAD FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.06.24-11.53.39:805][685]LightingResults: New page: Lighting Build
+[2026.06.24-11.53.39:810][685]LoadErrors: New page: Loading map: Level_02.umap
+[2026.06.24-11.53.39:813][685]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-11.53.39:813][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-11.53.39:816][685]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2026.06.24-11.53.39:816][685]MapCheck: New page: Map Check
+[2026.06.24-11.53.39:816][685]LightingResults: New page: Lighting Build
+[2026.06.24-11.53.39:832][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.24-11.53.39:836][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.06.24-11.53.39:839][685]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-11.53.39:839][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-11.53.39:855][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.24-11.53.39:872][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.06.24-11.53.39:875][685]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2026.06.24-11.53.39:876][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-11.53.39:876][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-11.53.39:876][685]LogAIModule: Creating AISystem for world Level_02
+[2026.06.24-11.53.39:890][685]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.24-11.53.39:907][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.24-11.53.39:911][685]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.24-11.53.39:911][685]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,094ms to complete.
+[2026.06.24-11.53.39:911][685]LogFileHelpers: Loading map 'Level_02' took 0.106
+[2026.06.24-11.53.39:923][685]AssetCheck: New page: Asset Save: multiple assets
+[2026.06.24-11.53.39:936][685]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-11.53.39:936][685]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-11.53.39:936][685]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-11.53.39:937][685]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-11.53.39:937][685]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-11.53.39:937][685]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-11.53.39:937][685]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-11.53.39:938][685]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-11.56.25:433][739]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-11.56.25:433][739]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-11.58.49:435][353]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.24-11.58.49:436][353]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.24-11.59.00:800][607]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-11.59.00:800][607]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-11.59.02:352][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-11.59.02:372][697]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-11.59.13:936][320]LogContentBrowser: Attempting asset rename: BP_Relic -> BP_Relic_Base
+[2026.06.24-11.59.13:957][320]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Base.BP_Relic_Base_C' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic.PackageMetaData'
+[2026.06.24-11.59.13:957][320]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Base.SKEL_BP_Relic_Base_C' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic.PackageMetaData'
+[2026.06.24-11.59.13:957][320]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Base.BP_Relic_Base:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic.PackageMetaData'
+[2026.06.24-11.59.13:957][320]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Base.SKEL_BP_Relic_Base_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic.PackageMetaData'
+[2026.06.24-11.59.13:957][320]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Base.SKEL_BP_Relic_Base_C:BndEvt__BP_Relic_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic.PackageMetaData'
+[2026.06.24-11.59.13:959][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-11.59.13:997][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-11.59.14:051][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_Relic_Base" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Base.uasset" SILENT=true
+[2026.06.24-11.59.14:055][320]LogSavePackage: Moving output files for package: /Game/Blueprints/Pickups/BP_Relic_Base
+[2026.06.24-11.59.14:055][320]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic_BaseAA09EECE4A83DD40C7AADAACAFF9B00C.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Base.uasset'
+[2026.06.24-11.59.14:060][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_Relic" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic.uasset" SILENT=true
+[2026.06.24-11.59.14:061][320]LogSavePackage: Moving output files for package: /Game/Blueprints/Pickups/BP_Relic
+[2026.06.24-11.59.14:061][320]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic160A06904942872DAD5B8DB3B8B43EDB.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic.uasset'
+[2026.06.24-11.59.14:070][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 6.09 sec)
+[2026.06.24-11.59.14:074][320]AssetCheck: New page: Asset Save: multiple assets
+[2026.06.24-11.59.14:074][320]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Pickups/BP_Relic_Base.BP_Relic_Base
+[2026.06.24-11.59.14:074][320]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Pickups/BP_Relic.BP_Relic
+[2026.06.24-11.59.14:074][320]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Pickups/BP_Relic.Default__BP_Relic_C
+[2026.06.24-11.59.14:074][320]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Pickups/BP_Relic.BP_Relic_C
+[2026.06.24-11.59.25:185][701]LogContentBrowser: Deferred new asset file creation: BP_Relic_Base_Child
+[2026.06.24-11.59.25:210][701]LogContentBrowser: Creating deferred item: BP_Relic_Base_Child
+[2026.06.24-11.59.25:218][702]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Relic_Base_Child).
+[2026.06.24-11.59.39:387][716]LogContentBrowser: Attempting asset rename: BP_Relic_Base_Child -> BP_Relic_Base_Level01
+[2026.06.24-11.59.39:392][716]LogContentBrowser: End creating deferred item BP_Relic_Base_Child
+[2026.06.24-11.59.39:393][716]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-11.59.43:302][958]LogContentBrowser: Deferred new asset file creation: BP_Relic_Base_Child
+[2026.06.24-11.59.43:322][958]LogContentBrowser: Creating deferred item: BP_Relic_Base_Child
+[2026.06.24-11.59.43:331][959]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Relic_Base_Child).
+[2026.06.24-11.59.48:156][297]LogContentBrowser: Attempting asset rename: BP_Relic_Base_Child -> BP_Relic_Base_Level02
+[2026.06.24-11.59.48:161][297]LogContentBrowser: End creating deferred item BP_Relic_Base_Child
+[2026.06.24-11.59.48:162][297]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-11.59.50:640][456]LogContentBrowser: Deferred new asset file creation: BP_Relic_Base_Child
+[2026.06.24-11.59.50:661][456]LogContentBrowser: Creating deferred item: BP_Relic_Base_Child
+[2026.06.24-11.59.50:671][457]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Relic_Base_Child).
+[2026.06.24-11.59.56:331][857]LogContentBrowser: Attempting asset rename: BP_Relic_Base_Child -> BP_Relic_Base_Level03
+[2026.06.24-11.59.56:336][857]LogContentBrowser: End creating deferred item BP_Relic_Base_Child
+[2026.06.24-11.59.56:336][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-12.00.00:236][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-12.00.00:265][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Level_02" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.06.24-12.00.00:281][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.24-12.00.00:288][949]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_02
+[2026.06.24-12.00.00:288][949]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Level_023FE14547479B5AA136E30E80C0638C88.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap'
+[2026.06.24-12.00.00:293][949]LogFileHelpers: Saving map 'Level_02' took 0.029
+[2026.06.24-12.00.00:300][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 6.15 sec)
+[2026.06.24-12.00.00:303][949]AssetCheck: New page: Asset Save: Level_02
+[2026.06.24-12.00.00:303][949]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_02.Level_02
+[2026.06.24-12.00.45:959][687]LogContentBrowser: Attempting asset rename: BP_Relic_Base_Level01 -> BP_Relic_Level01
+[2026.06.24-12.00.45:977][687]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level01.BP_Relic_Level01:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level01.PackageMetaData'
+[2026.06.24-12.00.45:977][687]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level01.SKEL_BP_Relic_Level01_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level01.PackageMetaData'
+[2026.06.24-12.00.45:977][687]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level01.SKEL_BP_Relic_Level01_C' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level01.PackageMetaData'
+[2026.06.24-12.00.45:977][687]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level01.BP_Relic_Level01_C' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level01.PackageMetaData'
+[2026.06.24-12.00.45:977][687]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level01.BP_Relic_Level01:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level01.PackageMetaData'
+[2026.06.24-12.00.45:977][687]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level01.BP_Relic_Level01:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level01.PackageMetaData'
+[2026.06.24-12.00.45:977][687]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level01.BP_Relic_Level01:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level01.PackageMetaData'
+[2026.06.24-12.00.45:978][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-12.00.46:023][687]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-12.00.46:053][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_Relic_Level01" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level01.uasset" SILENT=true
+[2026.06.24-12.00.46:056][687]LogSavePackage: Moving output files for package: /Game/Blueprints/Pickups/BP_Relic_Level01
+[2026.06.24-12.00.46:056][687]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic_Level01312340044860882B1F90F4B6789534AA.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level01.uasset'
+[2026.06.24-12.00.46:067][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.24 sec)
+[2026.06.24-12.00.46:091][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.24-12.00.46:109][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.06.24-12.00.46:125][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.06.24-12.00.46:129][687]AssetCheck: New page: Asset Save: BP_Relic_Level01
+[2026.06.24-12.00.46:129][687]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Pickups/BP_Relic_Level01.BP_Relic_Level01
+[2026.06.24-12.00.55:355][216]LogContentBrowser: Attempting asset rename: BP_Relic_Base_Level03 -> BP_Relic_Level03
+[2026.06.24-12.00.55:370][216]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level03.BP_Relic_Level03:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level03.PackageMetaData'
+[2026.06.24-12.00.55:370][216]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level03.SKEL_BP_Relic_Level03_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level03.PackageMetaData'
+[2026.06.24-12.00.55:370][216]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level03.SKEL_BP_Relic_Level03_C' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level03.PackageMetaData'
+[2026.06.24-12.00.55:370][216]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level03.BP_Relic_Level03_C' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level03.PackageMetaData'
+[2026.06.24-12.00.55:370][216]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level03.BP_Relic_Level03:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level03.PackageMetaData'
+[2026.06.24-12.00.55:370][216]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level03.BP_Relic_Level03:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level03.PackageMetaData'
+[2026.06.24-12.00.55:370][216]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level03.BP_Relic_Level03:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level03.PackageMetaData'
+[2026.06.24-12.00.55:370][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-12.00.55:416][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-12.00.55:455][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_Relic_Level03" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level03.uasset" SILENT=true
+[2026.06.24-12.00.55:458][216]LogSavePackage: Moving output files for package: /Game/Blueprints/Pickups/BP_Relic_Level03
+[2026.06.24-12.00.55:458][216]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic_Level03492986024B9F4B03F22F9DB06D1DD36F.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level03.uasset'
+[2026.06.24-12.00.55:469][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 6.34 sec)
+[2026.06.24-12.00.55:495][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.06.24-12.00.55:513][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.24-12.00.55:530][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.06.24-12.00.55:534][216]AssetCheck: New page: Asset Save: BP_Relic_Level03
+[2026.06.24-12.00.55:534][216]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Pickups/BP_Relic_Level03.BP_Relic_Level03
+[2026.06.24-12.01.08:108][949]LogContentBrowser: Attempting asset rename: BP_Relic_Level03 -> BP_Relic_Level03
+[2026.06.24-12.01.23:880][888]LogContentBrowser: Attempting asset rename: BP_Relic_Base_Level02 -> BP_Relic_Level02
+[2026.06.24-12.01.23:895][888]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level02.BP_Relic_Level02:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level02.PackageMetaData'
+[2026.06.24-12.01.23:895][888]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level02.SKEL_BP_Relic_Level02_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level02.PackageMetaData'
+[2026.06.24-12.01.23:895][888]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level02.SKEL_BP_Relic_Level02_C' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level02.PackageMetaData'
+[2026.06.24-12.01.23:895][888]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level02.BP_Relic_Level02_C' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level02.PackageMetaData'
+[2026.06.24-12.01.23:895][888]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level02.BP_Relic_Level02:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level02.PackageMetaData'
+[2026.06.24-12.01.23:895][888]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level02.BP_Relic_Level02:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level02.PackageMetaData'
+[2026.06.24-12.01.23:895][888]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic_Level02.BP_Relic_Level02:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Pickups/BP_Relic_Base_Level02.PackageMetaData'
+[2026.06.24-12.01.23:895][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-12.01.23:940][888]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-12.01.23:984][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_Relic_Level02" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level02.uasset" SILENT=true
+[2026.06.24-12.01.23:987][888]LogSavePackage: Moving output files for package: /Game/Blueprints/Pickups/BP_Relic_Level02
+[2026.06.24-12.01.23:987][888]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic_Level029F032077451E1A71CA54C79EBAA67483.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level02.uasset'
+[2026.06.24-12.01.23:998][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 6.44 sec)
+[2026.06.24-12.01.24:024][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.06.24-12.01.24:041][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.06.24-12.01.24:058][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.06.24-12.01.24:063][888]AssetCheck: New page: Asset Save: BP_Relic_Level02
+[2026.06.24-12.01.24:063][888]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Pickups/BP_Relic_Level02.BP_Relic_Level02
+[2026.06.24-12.01.26:095][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-12.01.26:144][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Level_02" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.06.24-12.01.26:159][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.06.24-12.01.26:164][ 31]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_02
+[2026.06.24-12.01.26:164][ 31]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Level_021635A2524001013D6423A8A5FF992D26.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap'
+[2026.06.24-12.01.26:172][ 31]LogFileHelpers: Saving map 'Level_02' took 0.029
+[2026.06.24-12.01.26:178][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.52 sec)
+[2026.06.24-12.01.26:182][ 31]AssetCheck: New page: Asset Save: Level_02
+[2026.06.24-12.01.26:182][ 31]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_02.Level_02
