@@ -4561,3 +4561,240 @@ Script Stack (0 frames) :
 [2026.06.24-09.25.31:488][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 2.30 sec)
 [2026.06.24-09.25.31:492][ 20]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2026.06.24-09.25.31:492][ 20]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.06.24-09.26.15:540][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.24-09.26.15:543][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW_Auto8
+[2026.06.24-09.26.15:543][727]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/01T6PXZGPMWYRBL4D1HLJW_Auto8DE6AE99E4A93859EC8245689CCCD493B.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW_Auto8.uasset'
+[2026.06.24-09.26.15:544][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF_Auto8
+[2026.06.24-09.26.15:544][727]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/TYLYWZDEMGWAY2ECSL8PRF_Auto846DFE5EB4108CBAB973D20AA2428D1A9.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF_Auto8.uasset'
+[2026.06.24-09.26.15:547][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V_Auto8
+[2026.06.24-09.26.15:547][727]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/YMOMQCJ7NP16V8KLG5L37V_Auto8F403CEDC412F72B2E026F0A81D2E6E7D.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V_Auto8.uasset'
+[2026.06.24-09.26.15:549][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU_Auto8
+[2026.06.24-09.26.15:549][727]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/0V6PBNZNY0O85C44XVVCQU_Auto84A9C9CD14F7B3352D92701A7A8BA5CF6.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU_Auto8.uasset'
+[2026.06.24-09.26.15:551][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA_Auto8
+[2026.06.24-09.26.15:551][727]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/6DGNQG2PPWRPCGUJLGIFVA_Auto8D6ECF9504660710495AEF1B94923AE21.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA_Auto8.uasset'
+[2026.06.24-09.26.15:552][727]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2026.06.24-09.26.15:552][727]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2026.06.24-09.26.52:562][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.26.54:203][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.27.52:890][966]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.24-09.27.52:890][966]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.24-09.28.15:368][574]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.06.24-09.28.15:379][574]LogContentBrowser: Creating deferred item: NewFolder
+[2026.06.24-09.28.15:387][575]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.06.24-09.28.20:772][904]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-09.28.20:772][904]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-09.28.25:041][162]LogContentBrowser: Attempting asset rename: NewFolder -> Hazards
+[2026.06.24-09.28.25:042][162]LogContentBrowser: End creating deferred item NewFolder
+[2026.06.24-09.28.30:340][269]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.06.24-09.28.30:348][269]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.06.24-09.28.30:354][269]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.06.24-09.28.30:372][271]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.06.24-09.28.37:412][687]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_KillZone
+[2026.06.24-09.28.37:418][687]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.06.24-09.28.50:678][877]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone
+[2026.06.24-09.28.50:678][877]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-09.28.50:678][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-09.28.50:760][877]LogViewport: Scene viewport resized to 872x697, mode Windowed.
+[2026.06.24-09.28.50:778][878]LogViewport: Scene viewport resized to 872x690, mode Windowed.
+[2026.06.24-09.28.50:838][879]LogViewport: Scene viewport resized to 872x680, mode Windowed.
+[2026.06.24-09.29.55:992][667]BlueprintLog: New page: Compile BP_KillZone
+[2026.06.24-09.29.56:023][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.06.24-09.29.56:624][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-09.29.56:650][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Hazards/BP_KillZone" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Hazards/BP_KillZone.uasset" SILENT=true
+[2026.06.24-09.29.56:652][727]LogSavePackage: Moving output files for package: /Game/Blueprints/Hazards/BP_KillZone
+[2026.06.24-09.29.56:652][727]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_KillZone02D40978493D02FEEE3926ADA29A5D0F.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Hazards/BP_KillZone.uasset'
+[2026.06.24-09.29.56:660][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 2.34 sec)
+[2026.06.24-09.29.56:663][727]AssetCheck: New page: Asset Save: BP_KillZone
+[2026.06.24-09.29.56:663][727]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone
+[2026.06.24-09.31.01:420][470]BlueprintLog: New page: Compile BP_KillZone
+[2026.06.24-09.31.01:422][470]LogBlueprint: Error: [AssetLog] C:\Users\Aorus\Documents\GitHub\SkyRelicRush\SRR\Content\Blueprints\Hazards\BP_KillZone.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_ThirdPersonCharacter  to imply a specific type.
+[2026.06.24-09.31.01:422][470]LogBlueprint: Error: [AssetLog] C:\Users\Aorus\Documents\GitHub\SkyRelicRush\SRR\Content\Blueprints\Hazards\BP_KillZone.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2026.06.24-09.31.01:451][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.06.24-09.31.07:652][200]BlueprintLog: New page: Compile BP_KillZone
+[2026.06.24-09.31.07:682][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.24-09.31.56:256][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-09.31.56:288][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Hazards/BP_KillZone" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Hazards/BP_KillZone.uasset" SILENT=true
+[2026.06.24-09.31.56:290][984]LogSavePackage: Moving output files for package: /Game/Blueprints/Hazards/BP_KillZone
+[2026.06.24-09.31.56:291][984]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_KillZoneC105AB8045E86C2B2C107791BC8E9DB3.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Hazards/BP_KillZone.uasset'
+[2026.06.24-09.31.56:297][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 2.38 sec)
+[2026.06.24-09.31.56:302][984]AssetCheck: New page: Asset Save: BP_KillZone
+[2026.06.24-09.31.56:302][984]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone
+[2026.06.24-09.31.59:338][188]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone_C
+[2026.06.24-09.31.59:338][188]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone_C
+[2026.06.24-09.31.59:339][188]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone as actor: BP_KillZone_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_KillZone_C_0
+[2026.06.24-09.31.59:340][188]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone as actor: BP_KillZone_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_KillZone_C_0
+[2026.06.24-09.31.59:979][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone_C
+[2026.06.24-09.31.59:979][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone_C
+[2026.06.24-09.31.59:981][227]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone as actor: BP_KillZone_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_KillZone_C_UAID_D85ED33287E9D9E702_1306885628
+[2026.06.24-09.31.59:982][227]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone as actor: BP_KillZone_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_KillZone_C_UAID_D85ED33287E9D9E702_1306885628
+[2026.06.24-09.32.41:433][616]LogViewport: Scene viewport resized to 1160x888, mode Windowed.
+[2026.06.24-09.32.41:487][618]LogViewport: Scene viewport resized to 1138x888, mode Windowed.
+[2026.06.24-09.32.41:575][621]LogViewport: Scene viewport resized to 1125x888, mode Windowed.
+[2026.06.24-09.32.41:622][623]LogViewport: Scene viewport resized to 1119x888, mode Windowed.
+[2026.06.24-09.33.00:646][749]Cmd: TRANSACTION UNDO
+[2026.06.24-09.33.00:646][749]LogEditorTransaction: Undo Scale Elements
+[2026.06.24-09.33.00:741][749]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.01:440][785]Cmd: TRANSACTION UNDO
+[2026.06.24-09.33.01:440][785]LogEditorTransaction: Undo Clicking on Elements
+[2026.06.24-09.33.01:468][785]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.37:352][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-09.33.37:411][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW
+[2026.06.24-09.33.37:411][722]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/01T6PXZGPMWYRBL4D1HLJWBC45FF72450E1004BB1F3FBA68BAD367.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW.uasset'
+[2026.06.24-09.33.37:413][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF
+[2026.06.24-09.33.37:414][722]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/TYLYWZDEMGWAY2ECSL8PRF18DB3DCF4300FDE69CA85EB8D31258BC.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF.uasset'
+[2026.06.24-09.33.37:416][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V
+[2026.06.24-09.33.37:416][722]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/YMOMQCJ7NP16V8KLG5L37VFAA9EF804A0D2F87E177D098984600D0.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V.uasset'
+[2026.06.24-09.33.37:419][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU
+[2026.06.24-09.33.37:419][722]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/0V6PBNZNY0O85C44XVVCQU24CAFE7D4670EE9F06081BA8CFB41748.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU.uasset'
+[2026.06.24-09.33.37:422][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA
+[2026.06.24-09.33.37:422][722]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/6DGNQG2PPWRPCGUJLGIFVAB608EF884FA02C0661404E870AFA20DD.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA.uasset'
+[2026.06.24-09.33.37:425][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/VW/QFC01DBUF0NEUFPTHLVFRM
+[2026.06.24-09.33.37:425][722]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/QFC01DBUF0NEUFPTHLVFRM5D7D52C140540EFA80BA8490C14AF907.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/VW/QFC01DBUF0NEUFPTHLVFRM.uasset'
+[2026.06.24-09.33.37:433][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.46 sec)
+[2026.06.24-09.33.37:438][722]AssetCheck: New page: Asset Save: multiple assets
+[2026.06.24-09.33.37:438][722]LogContentValidation: Display: Validating /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_KillZone_C_UAID_D85ED33287E9D9E702_1306885628
+[2026.06.24-09.33.37:438][722]LogContentValidation: Display: Validating /Game/Blueprints/Pickups/BP_Relic.BP_Relic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Relic_C_UAID_D85ED33287E9D5E702_1144809923
+[2026.06.24-09.33.37:438][722]LogContentValidation: Display: Validating /Game/Blueprints/Pickups/BP_Relic.BP_Relic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Relic_C_UAID_D85ED33287E9D5E702_1141237922
+[2026.06.24-09.33.37:438][722]LogContentValidation: Display: Validating /Game/Blueprints/Pickups/BP_Relic.BP_Relic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Relic_C_UAID_D85ED33287E9D5E702_1138685921
+[2026.06.24-09.33.37:438][722]LogContentValidation: Display: Validating /Game/Blueprints/Pickups/BP_Relic.BP_Relic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Relic_C_UAID_D85ED33287E9D5E702_1135653920
+[2026.06.24-09.33.37:438][722]LogContentValidation: Display: Validating /Game/Blueprints/Pickups/BP_Relic.BP_Relic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Relic_C_UAID_D85ED33287E9D4E702_2086241743
+[2026.06.24-09.33.37:973][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.24-09.33.37:977][756]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.06.24-09.33.37:978][756]LogWorldPartition: Display: GenerateStreaming started...
+[2026.06.24-09.33.37:978][756]LogWorldPartition: Display: GetPartitionedActors started...
+[2026.06.24-09.33.37:978][756]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 630 us)
+[2026.06.24-09.33.37:978][756]LogWorldPartition: Display: GenerateStreaming took 135 us (total: 2 ms)
+[2026.06.24-09.33.37:981][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.24-09.33.37:981][756]PIE: New page: PIE session: ThirdPersonMap (24 Ιουν 2026, 3:33:37 μ.μ.)
+[2026.06.24-09.33.37:981][756]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-09.33.37:985][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003850s)
+[2026.06.24-09.33.37:985][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003891s)
+[2026.06.24-09.33.37:985][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-09.33.37:985][756]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-09.33.37:986][756]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2026.06.24-09.33.37:986][756]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.24-09.33.37:986][756]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.24-09.33.37:986][756]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2026.06.24-09.33.37:987][756]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2026.06.24-09.33.37:987][756]LogWorldPartition: Display: WorldPartition initialize took 750 us (total: 57 ms)
+[2026.06.24-09.33.37:987][756]LogPlayLevel: PIE: World Init took: (0.001696s)
+[2026.06.24-09.33.38:008][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.06.24-09.33.38:011][756]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.06.24-09.33.38:011][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.24-09.33.38:011][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.24-09.33.38:011][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.24-09.33.38:011][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.24-09.33.38:011][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.24-09.33.38:011][756]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.06.24-09.33.38:011][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.24-09.33.38:011][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.24-09.33.38:011][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.24-09.33.38:011][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.24-09.33.38:011][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.24-09.33.38:013][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.24-09.33.38:035][756]LogAudioMixer: Display: Using Audio Hardware Device (ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.06.24-09.33.38:035][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.24-09.33.38:035][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.24-09.33.38:035][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.24-09.33.38:036][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.06.24-09.33.38:036][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.06.24-09.33.38:037][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.06.24-09.33.38:037][756]LogInit: FAudioDevice initialized with ID 17.
+[2026.06.24-09.33.38:037][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.06.24-09.33.38:037][756]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2026.06.24-09.33.38:037][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.24-09.33.38:039][756]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-09.33.38:040][756]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.06.24-12.33.38
+[2026.06.24-09.33.38:041][756]LogWorld: Bringing up level for play took: 0.001270
+[2026.06.24-09.33.38:042][756]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.06.24-09.33.38:047][756]PIE: Server logged in
+[2026.06.24-09.33.38:047][756]PIE: Play in editor total start time 0,07 seconds.
+[2026.06.24-09.33.38:063][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:063][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:064][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:064][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:064][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:064][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:065][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:065][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:065][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:066][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:068][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:068][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:080][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:080][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:080][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:081][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:081][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:081][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:081][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:082][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:082][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:082][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:084][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.38:084][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.46:725][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:736][424]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2026.06.24-09.33.52:736][424]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2026.06.24-09.33.52:736][424]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-09.33.52:737][424]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-09.33.52:737][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-09.33.52:738][424]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2026.06.24-09.33.52:755][424]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.24-09.33.52:757][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.06.24-09.33.52:763][424]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-09.33.52:767][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003169s)
+[2026.06.24-09.33.52:767][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003211s)
+[2026.06.24-09.33.52:767][424]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2026.06.24-09.33.52:767][424]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-09.33.52:767][424]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-09.33.52:767][424]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2026.06.24-09.33.52:768][424]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.24-09.33.52:768][424]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.24-09.33.52:768][424]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2026.06.24-09.33.52:768][424]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2026.06.24-09.33.52:768][424]LogWorldPartition: Display: WorldPartition initialize took 760 us (total: 58 ms)
+[2026.06.24-09.33.52:768][424]LogPlayLevel: PIE: World Init took: (0.001625s)
+[2026.06.24-09.33.52:768][424]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-09.33.52:770][424]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.06.24-12.33.52
+[2026.06.24-09.33.52:770][424]LogWorld: Bringing up level for play took: 0.001429
+[2026.06.24-09.33.52:774][424]LogLoad: Took 0.038127 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2026.06.24-09.33.52:779][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:779][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:779][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:780][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:780][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:780][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:780][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:781][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:781][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:781][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:783][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:783][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:789][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:789][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:790][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:790][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:790][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:791][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:791][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:791][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:791][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:792][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:793][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.52:794][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.54:596][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-09.33.54:596][516]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-09.33.54:596][516]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-09.33.54:596][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-09.33.54:596][516]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2026.06.24-09.33.54:607][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.24-09.33.54:610][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-09.33.54:628][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-09.33.54:628][516]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.24-09.33.54:628][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.06.24-09.33.54:629][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.06.24-09.33.54:634][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.06.24-09.33.54:648][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.54:663][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-09.33.54:673][518]LogPlayLevel: Display: Destroying online subsystem :Context_30
