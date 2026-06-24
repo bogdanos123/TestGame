@@ -268,7 +268,9 @@
 				"C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/Props/SM_Stairs.uasset",
 				"C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/Props/SM_Statue.uasset",
 				"C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/Props/SM_TableRound.uasset",
-				"C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/Props/SM_WindowFrame.uasset"
+				"C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/Props/SM_WindowFrame.uasset",
+				"C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/BP_Relic.uasset",
+				"C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]

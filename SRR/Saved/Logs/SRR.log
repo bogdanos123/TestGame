@@ -2466,3 +2466,866 @@ Script Stack (0 frames) :
 [2026.06.23-18.15.12:112][512]LogSlate: Window 'Content Browser' being destroyed
 [2026.06.23-18.15.12:118][512]LogSlate: Window 'Content Browser' being destroyed
 [2026.06.23-18.19.34:087][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.06.23-18.33.34:075][406]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.23-18.33.34:075][406]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.23-18.33.37:191][406]LogSlate: Window 'Save Content' being destroyed
+[2026.06.23-19.01.57:663][544]LogDerivedDataCache: C:/Users/Aorus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.043 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 897 files in 1505 folders with total size 25 MiB.
+[2026.06.23-19.22.33:677][252]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2026.06.23-19.22.33:677][252]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2026.06.23-20.01.57:658][343]LogDerivedDataCache: C:/Users/Aorus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.037 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 897 files in 1505 folders with total size 25 MiB.
+[2026.06.23-20.10.27:216][872]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2026.06.23-20.40.13:750][231]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.23-20.40.13:750][231]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.23-20.40.33:294][258]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [11532ms] waiting for h/w. InstanceID=1
+[2026.06.23-20.40.33:922][258]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2220
+[2026.06.23-20.40.34:262][260]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e19207f1-bda4-471d-bda0-5f600aa8d630}, Name=(ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=41.51
+[2026.06.23-20.40.34:262][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.06.23-20.40.34:263][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.06.23-20.41.11:491][349]LogHttp: Warning: 000005A8AB38BE00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0EC3075-4BA7-3467-A4C5-40AED9A384D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3168ab414a1e75015da9bba94a296690%7C2230ef346ce2456ba98a5f8a2a566599%7C868c1398-cef0-425a-adfe-c75ae47e69df&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.23-20.41.11:492][349]LogHttp: Warning: 000005A8AB38BE00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2026.06.23-20.41.11:492][349]LogHttp: Warning: 000005A8AB38BE00: libcurl info message cache 0 (Found bundle for host: 0x5a895970450 [serially])
+[2026.06.23-20.41.11:492][349]LogHttp: Warning: 000005A8AB38BE00: libcurl info message cache 1 (Re-using existing connection #5 with host datarouter.ol.epicgames.com)
+[2026.06.23-20.41.11:492][349]LogHttp: Warning: 000005A8AB38BE00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.164.235.152) port 443 (#5))
+[2026.06.23-20.41.11:492][349]LogHttp: Warning: 000005A8AB38BE00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2026.06.23-20.41.11:492][349]LogHttp: Warning: 000005A8AB38BE00: libcurl info message cache 4 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.06.23-20.41.11:492][349]LogHttp: Warning: 000005A8AB38BE00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.06.23-20.41.11:492][349]LogHttp: Warning: 000005A8AB38BE00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2026.06.23-20.41.11:492][349]LogHttp: Warning: 000005A8AB38BE00: libcurl info message cache 7 (Closing connection 5)
+[2026.06.23-20.41.11:492][349]LogHttp: Warning: 000005A8AB38BE00: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.06.23-20.41.11:492][349]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0EC3075-4BA7-3467-A4C5-40AED9A384D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3168ab414a1e75015da9bba94a296690%7C2230ef346ce2456ba98a5f8a2a566599%7C868c1398-cef0-425a-adfe-c75ae47e69df&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2026.06.24-05.14.01:218][382]LogHttp: Warning: 000005A8AB38D700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0EC3075-4BA7-3467-A4C5-40AED9A384D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3168ab414a1e75015da9bba94a296690%7C2230ef346ce2456ba98a5f8a2a566599%7C868c1398-cef0-425a-adfe-c75ae47e69df&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.24-05.14.01:218][382]LogHttp: Warning: 000005A8AB38D700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.24-05.14.01:218][382]LogHttp: Warning: 000005A8AB38D700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.06.24-05.14.01:218][382]LogHttp: Warning: 000005A8AB38D700: libcurl info message cache 1 (Closing connection 6)
+[2026.06.24-05.14.01:218][382]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0EC3075-4BA7-3467-A4C5-40AED9A384D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3168ab414a1e75015da9bba94a296690%7C2230ef346ce2456ba98a5f8a2a566599%7C868c1398-cef0-425a-adfe-c75ae47e69df&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: 000005A8AB38E100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0EC3075-4BA7-3467-A4C5-40AED9A384D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3168ab414a1e75015da9bba94a296690%7C2230ef346ce2456ba98a5f8a2a566599%7C868c1398-cef0-425a-adfe-c75ae47e69df&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: 000005A8AB38E100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: 000005A8AB38E100: libcurl info message cache 0 (Found bundle for host: 0x5a895970f90 [serially])
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: 000005A8AB38E100: libcurl info message cache 1 (Re-using existing connection #7 with host datarouter.ol.epicgames.com)
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: 000005A8AB38E100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.66.8) port 443 (#7))
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: 000005A8AB38E100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: 000005A8AB38E100: libcurl info message cache 4 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: 000005A8AB38E100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: 000005A8AB38E100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: 000005A8AB38E100: libcurl info message cache 7 (Closing connection 7)
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: 000005A8AB38E100: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.06.24-05.17.09:536][920]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0EC3075-4BA7-3467-A4C5-40AED9A384D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3168ab414a1e75015da9bba94a296690%7C2230ef346ce2456ba98a5f8a2a566599%7C868c1398-cef0-425a-adfe-c75ae47e69df&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2026.06.24-07.29.53:172][943]LogHttp: Warning: 000005A8AB38F000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0EC3075-4BA7-3467-A4C5-40AED9A384D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3168ab414a1e75015da9bba94a296690%7C2230ef346ce2456ba98a5f8a2a566599%7C868c1398-cef0-425a-adfe-c75ae47e69df&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.06.24-07.29.53:172][943]LogHttp: Warning: 000005A8AB38F000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.06.24-07.29.53:172][943]LogHttp: Warning: 000005A8AB38F000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.06.24-07.29.53:172][943]LogHttp: Warning: 000005A8AB38F000: libcurl info message cache 1 (Closing connection 8)
+[2026.06.24-07.29.53:172][943]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0EC3075-4BA7-3467-A4C5-40AED9A384D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=3168ab414a1e75015da9bba94a296690%7C2230ef346ce2456ba98a5f8a2a566599%7C868c1398-cef0-425a-adfe-c75ae47e69df&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2026.06.24-07.47.29:233][110]LogDerivedDataCache: C:/Users/Aorus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.038 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 897 files in 1505 folders with total size 25 MiB.
+[2026.06.24-08.07.02:350][629]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-08.07.02:350][629]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-08.08.45:804][561]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.06.24-08.08.45:812][561]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.06.24-08.08.45:816][561]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.06.24-08.08.45:832][562]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.06.24-08.08.51:201][793]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Relic
+[2026.06.24-08.08.51:215][793]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.06.24-08.09.16:327][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.06.24-08.09.16:329][942]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.022
+[2026.06.24-08.09.16:330][942]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/BP_Relic] ([2] browsable assets)...
+[2026.06.24-08.09.16:330][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/BP_Relic]
+[2026.06.24-08.09.16:330][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/BP_Relic" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/StarterContent/BP_Relic_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.06.24-08.09.16:341][942]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/BP_Relic_Auto2
+[2026.06.24-08.09.16:341][942]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic_Auto284CF201B42544404E4DA2691979CDA39.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/StarterContent/BP_Relic_Auto2.uasset'
+[2026.06.24-08.09.16:342][942]LogFileHelpers: Auto-saving content packages took 0.013
+[2026.06.24-08.10.31:674][445]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/BP_Relic.BP_Relic
+[2026.06.24-08.10.31:679][445]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.10.31:679][445]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-08.10.33:425][445]LogViewport: Scene viewport resized to 1040x610, mode Windowed.
+[2026.06.24-08.10.34:845][501]LogViewport: Scene viewport resized to 1037x629, mode Windowed.
+[2026.06.24-08.10.34:855][502]LogViewport: Scene viewport resized to 1348x685, mode Windowed.
+[2026.06.24-08.10.35:438][571]LogSlate: Window 'BP_Relic' being destroyed
+[2026.06.24-08.10.35:452][571]LogViewport: Scene viewport resized to 1348x725, mode Windowed.
+[2026.06.24-08.10.35:479][572]LogViewport: Scene viewport resized to 1348x717, mode Windowed.
+[2026.06.24-08.10.35:490][573]LogViewport: Scene viewport resized to 1348x713, mode Windowed.
+[2026.06.24-08.10.35:500][574]LogViewport: Scene viewport resized to 1348x710, mode Windowed.
+[2026.06.24-08.10.35:511][575]LogViewport: Scene viewport resized to 1348x707, mode Windowed.
+[2026.06.24-08.10.35:521][576]LogViewport: Scene viewport resized to 1348x704, mode Windowed.
+[2026.06.24-08.10.35:531][577]LogViewport: Scene viewport resized to 1348x701, mode Windowed.
+[2026.06.24-08.10.35:541][578]LogViewport: Scene viewport resized to 1348x697, mode Windowed.
+[2026.06.24-08.10.35:551][579]LogViewport: Scene viewport resized to 1348x694, mode Windowed.
+[2026.06.24-08.10.35:562][580]LogViewport: Scene viewport resized to 1348x691, mode Windowed.
+[2026.06.24-08.10.35:571][581]LogViewport: Scene viewport resized to 1348x688, mode Windowed.
+[2026.06.24-08.10.35:582][582]LogViewport: Scene viewport resized to 1348x685, mode Windowed.
+[2026.06.24-08.10.56:297][600]LogSlate: Took 0.007117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.06.24-08.10.56:331][603]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.11.17:637][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.11.17:687][827]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.11.59:992][ 13]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.11.59:992][ 13]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:000][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:000][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:000][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:008][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:009][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:009][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:017][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:017][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:017][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:025][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:025][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:025][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:033][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:033][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:033][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:041][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:041][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:041][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:050][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:050][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:050][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:058][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:059][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:059][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:067][ 22]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:067][ 22]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:067][ 22]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:075][ 23]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:075][ 23]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:075][ 23]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:083][ 24]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:083][ 24]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:083][ 24]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:092][ 25]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:092][ 25]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:092][ 25]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:100][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:100][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:100][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:108][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:109][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:109][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:117][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:117][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:117][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:124][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:125][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:125][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:133][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:133][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:134][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:142][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:142][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:142][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:150][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:150][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:150][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:158][ 33]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:158][ 33]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:158][ 33]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:167][ 34]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:167][ 34]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:167][ 34]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:174][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:175][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:175][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:183][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:183][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:183][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:192][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:192][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:192][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:200][ 38]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:200][ 38]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:200][ 38]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:208][ 39]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:208][ 39]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:208][ 39]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:217][ 40]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:217][ 40]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:217][ 40]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:224][ 41]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:225][ 41]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:225][ 41]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:233][ 42]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:233][ 42]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:233][ 42]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:242][ 43]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:242][ 43]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:242][ 43]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:250][ 44]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:250][ 44]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:250][ 44]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:258][ 45]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:258][ 45]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:258][ 45]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:266][ 46]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:267][ 46]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:267][ 46]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:274][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:274][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:275][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:283][ 48]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:283][ 48]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:283][ 48]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:291][ 49]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:292][ 49]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:292][ 49]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:300][ 50]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:300][ 50]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:300][ 50]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:308][ 51]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:308][ 51]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:308][ 51]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:317][ 52]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:317][ 52]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:317][ 52]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:324][ 53]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:324][ 53]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:324][ 53]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:333][ 54]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:333][ 54]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:333][ 54]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:341][ 55]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:341][ 55]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:341][ 55]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:350][ 56]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:350][ 56]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:350][ 56]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:358][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:358][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:358][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:366][ 58]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:367][ 58]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:367][ 58]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:375][ 59]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:375][ 59]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:375][ 59]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:383][ 60]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:383][ 60]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:383][ 60]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:391][ 61]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:391][ 61]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:392][ 61]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:400][ 62]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:400][ 62]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:400][ 62]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:408][ 63]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:408][ 63]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:408][ 63]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:417][ 64]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:417][ 64]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:417][ 64]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:425][ 65]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.00:425][ 65]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.BP_Relic_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.000
+[2026.06.24-08.12.34:742][450]LogSlate: Took 0.005836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.06.24-08.15.19:424][952]BlueprintLog: New page: Compile BP_Relic
+[2026.06.24-08.15.19:504][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.06.24-08.15.20:565][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-08.15.20:627][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/BP_Relic" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/BP_Relic.uasset" SILENT=true
+[2026.06.24-08.15.20:631][ 74]LogSavePackage: Moving output files for package: /Game/StarterContent/BP_Relic
+[2026.06.24-08.15.20:631][ 74]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic4D7B969240C67388741D44A1403B6B8A.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/BP_Relic.uasset'
+[2026.06.24-08.15.20:640][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 976 ms)
+[2026.06.24-08.15.20:644][ 74]AssetCheck: New page: Asset Save: BP_Relic
+[2026.06.24-08.15.20:644][ 74]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/BP_Relic.BP_Relic
+[2026.06.24-08.15.22:369][281]LogViewport: Scene viewport resized to 1175x888, mode Windowed.
+[2026.06.24-08.15.29:675][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/BP_Relic.BP_Relic_C
+[2026.06.24-08.15.29:675][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/BP_Relic.BP_Relic_C
+[2026.06.24-08.15.29:678][631]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/BP_Relic.BP_Relic as actor: BP_Relic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Relic_C_0
+[2026.06.24-08.15.29:679][631]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/BP_Relic.BP_Relic as actor: BP_Relic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Relic_C_0
+[2026.06.24-08.15.29:683][631]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.06.24-08.15.30:625][705]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/BP_Relic.BP_Relic_C
+[2026.06.24-08.15.30:625][705]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/BP_Relic.BP_Relic_C
+[2026.06.24-08.15.30:629][705]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/BP_Relic.BP_Relic as actor: BP_Relic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Relic_C_UAID_D85ED33287E9D4E702_2086241743
+[2026.06.24-08.15.30:630][705]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/BP_Relic.BP_Relic as actor: BP_Relic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Relic_C_UAID_D85ED33287E9D4E702_2086241743
+[2026.06.24-08.15.30:657][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.34:830][913]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.24-08.15.34:836][913]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.06.24-08.15.34:838][913]LogWorldPartition: Display: GenerateStreaming started...
+[2026.06.24-08.15.34:838][913]LogWorldPartition: Display: GetPartitionedActors started...
+[2026.06.24-08.15.34:839][913]LogWorldPartition: Display: GetPartitionedActors took 527 us
+[2026.06.24-08.15.34:839][913]LogWorldPartition: Display: GenerateStreaming took 866 us
+[2026.06.24-08.15.34:845][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.24-08.15.34:858][913]PIE: New page: PIE session: ThirdPersonMap (24 Ιουν 2026, 2:15:34 μ.μ.)
+[2026.06.24-08.15.34:864][913]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.06.24-08.15.34:864][913]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2026.06.24-08.15.34:866][913]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-08.15.34:870][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004049s)
+[2026.06.24-08.15.34:870][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004087s)
+[2026.06.24-08.15.34:870][913]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.15.34:870][913]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-08.15.34:870][913]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2026.06.24-08.15.34:871][913]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.24-08.15.34:871][913]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.24-08.15.34:871][913]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2026.06.24-08.15.34:872][913]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2026.06.24-08.15.34:872][913]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 45 ms)
+[2026.06.24-08.15.34:873][913]LogPlayLevel: PIE: World Init took: (0.003248s)
+[2026.06.24-08.15.34:890][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.06.24-08.15.34:893][913]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.06.24-08.15.34:893][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.24-08.15.34:893][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.24-08.15.34:893][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.24-08.15.34:893][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.24-08.15.34:893][913]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.24-08.15.34:894][913]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.06.24-08.15.34:894][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.24-08.15.34:894][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.24-08.15.34:894][913]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.24-08.15.34:894][913]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.24-08.15.34:894][913]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.24-08.15.34:896][913]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.24-08.15.34:916][913]LogAudioMixer: Display: Using Audio Hardware Device (ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.06.24-08.15.34:917][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.24-08.15.34:917][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.24-08.15.34:917][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.24-08.15.34:917][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.06.24-08.15.34:917][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.06.24-08.15.34:919][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.06.24-08.15.34:919][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.06.24-08.15.34:919][913]LogInit: FAudioDevice initialized with ID 2.
+[2026.06.24-08.15.34:919][913]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2026.06.24-08.15.34:919][913]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.06.24-08.15.34:928][913]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-08.15.34:930][913]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.06.24-11.15.34
+[2026.06.24-08.15.34:932][913]LogWorld: Bringing up level for play took: 0.002708
+[2026.06.24-08.15.34:934][913]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.06.24-08.15.34:987][913]PIE: Server logged in
+[2026.06.24-08.15.34:988][913]PIE: Play in editor total start time 0,152 seconds.
+[2026.06.24-08.15.35:045][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:045][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:045][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:046][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:046][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:046][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:047][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:047][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:047][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:048][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:048][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:049][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:071][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:072][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:072][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:072][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:072][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:073][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:073][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:073][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:074][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:074][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:074][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.35:075][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.40:773][111]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.42:030][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-08.15.42:030][167]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-08.15.42:031][167]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-08.15.42:031][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-08.15.42:031][167]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2026.06.24-08.15.42:048][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.24-08.15.42:051][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-08.15.42:068][167]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.24-08.15.42:068][167]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.06.24-08.15.42:068][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.06.24-08.15.42:070][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.06.24-08.15.42:073][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-08.15.42:074][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.06.24-08.15.42:106][167]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.42:112][168]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.06.24-08.15.42:123][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.15.42:468][171]LogSlate: Took 0.004879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.06.24-08.17.33:383][992]Cmd: EDIT COPY
+[2026.06.24-08.17.33:780][ 11]Cmd: EDIT PASTE
+[2026.06.24-08.17.33:836][ 11]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.17.36:812][151]Cmd: EDIT PASTE
+[2026.06.24-08.17.36:869][151]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.17.39:363][269]Cmd: EDIT PASTE
+[2026.06.24-08.17.39:447][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.17.42:935][432]Cmd: EDIT PASTE
+[2026.06.24-08.17.43:022][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.18.04:771][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: ================================================
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Total job queries 86, among them cache hits 0 (0.00%)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Tracking 83 distinct input hashes that result in 70 distinct outputs (84.34%)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: RAM used: 2,30 MiB of 1,60 GiB budget. Usage: 0.14%
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Shaders Compiled: 83
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Jobs assigned 86, completed 83 (96.51%)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Average time worker was idle: 50863.72 s
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Job execution time: average 5.72 s, max 6.63 s
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Job life time (pending + execution): average 5.78 s, max 6.72
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.62 s
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 6.14 jobs/batch
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Average processing rate: 9.63 jobs/sec
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Total thread time: 42,888 s
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Total thread preprocess time: 1,417 s
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Percentage time preprocessing: 3.31%
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Effective parallelization: 4.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 0.72 sec, max 0.97 sec, min 0.44 sec)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 0.66 sec, max 0.83 sec, min 0.40 sec)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.65 sec, max 0.92 sec, min 0.36 sec)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.65 sec, max 0.91 sec, min 0.37 sec)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 0.65 sec, max 0.92 sec, min 0.48 sec)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 6.75% of total time (compiled    4 times, average 0.72 sec, max 0.97 sec, min 0.44 sec)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 6.20% of total time (compiled    4 times, average 0.66 sec, max 0.83 sec, min 0.40 sec)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.10% of total time (compiled    4 times, average 0.65 sec, max 0.92 sec, min 0.36 sec)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.09% of total time (compiled    4 times, average 0.65 sec, max 0.91 sec, min 0.37 sec)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 6.05% of total time (compiled    4 times, average 0.65 sec, max 0.92 sec, min 0.48 sec)
+[2026.06.24-08.18.06:727][299]LogShaderCompilers: Display: ================================================
+[2026.06.24-08.18.07:034][314]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.18.07:160][314]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2026.06.24-08.18.07:233][315]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.18.07:248][316]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.18.10:671][452]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.06.24-08.18.10:672][452]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.18.10:672][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-08.18.10:862][454]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.18.42:266][184]LogSlate: Took 0.008245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.06.24-08.19.12:916][821]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2026.06.24-08.19.12:967][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.24-08.19.23:317][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-08.19.23:348][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.19.23:529][ 54]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.06.24-08.19.23:529][ 54]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_ThirdPersonCharacter35E856E04623E005D649C6950A7A8E0E.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.06.24-08.19.23:536][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 1.19 sec)
+[2026.06.24-08.19.23:540][ 54]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2026.06.24-08.19.23:540][ 54]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.06.24-08.21.50:291][181]BlueprintLog: New page: Compile BP_Relic
+[2026.06.24-08.21.50:293][181]LogBlueprint: Error: [AssetLog] C:\Users\Aorus\Documents\GitHub\SkyRelicRush\SRR\Content\StarterContent\BP_Relic.uasset: [Compiler] This blueprint (self) is not a BP_ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2026.06.24-08.21.50:293][181]LogBlueprint: Error: [AssetLog] C:\Users\Aorus\Documents\GitHub\SkyRelicRush\SRR\Content\StarterContent\BP_Relic.uasset: [Compiler] Variable node  Set RelicsCollected  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.06.24-08.21.50:338][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.24-08.24.47:077][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.06.24-08.24.47:081][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V_Auto3
+[2026.06.24-08.24.47:081][626]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/YMOMQCJ7NP16V8KLG5L37V_Auto3269680484080F5C5F8B71B86278A04A9.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V_Auto3.uasset'
+[2026.06.24-08.24.47:083][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW_Auto3
+[2026.06.24-08.24.47:083][626]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/01T6PXZGPMWYRBL4D1HLJW_Auto358992D3D49B6A1B49CD2FD81056605BF.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW_Auto3.uasset'
+[2026.06.24-08.24.47:084][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU_Auto3
+[2026.06.24-08.24.47:084][626]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/0V6PBNZNY0O85C44XVVCQU_Auto3D8025B384D9F9D12DBE010B31C3E1442.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU_Auto3.uasset'
+[2026.06.24-08.24.47:087][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF_Auto3
+[2026.06.24-08.24.47:087][626]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/TYLYWZDEMGWAY2ECSL8PRF_Auto348BE23A84C1C16F3C06D93A4D108A4B5.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF_Auto3.uasset'
+[2026.06.24-08.24.47:089][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA_Auto3
+[2026.06.24-08.24.47:089][626]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/6DGNQG2PPWRPCGUJLGIFVA_Auto31FD6C25A4E1D0884E2AFD79D14612BED.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA_Auto3.uasset'
+[2026.06.24-08.24.47:090][626]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.032
+[2026.06.24-08.24.47:090][626]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2026.06.24-08.24.47:090][626]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StarterContent/BP_Relic] ([2] browsable assets)...
+[2026.06.24-08.24.47:162][626]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/BP_Relic.BP_Relic]
+[2026.06.24-08.24.47:162][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/BP_Relic]
+[2026.06.24-08.24.47:162][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/BP_Relic" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/StarterContent/BP_Relic_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.06.24-08.24.47:168][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/BP_Relic_Auto3
+[2026.06.24-08.24.47:168][626]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic_Auto37F78279645999DD1999B048A469B3A0A.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/StarterContent/BP_Relic_Auto3.uasset'
+[2026.06.24-08.24.47:169][626]LogFileHelpers: Auto-saving content packages took 0.079
+[2026.06.24-08.24.58:809][662]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.24-08.24.58:809][662]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.24-08.25.01:554][947]BlueprintLog: New page: Compile BP_Relic
+[2026.06.24-08.25.01:592][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.24-08.26.01:739][318]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-08.26.01:739][318]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-08.27.04:595][892]BlueprintLog: New page: Compile BP_Relic
+[2026.06.24-08.27.04:635][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.06.24-08.27.09:860][ 42]LogViewport: Scene viewport resized to 1618x894, mode Windowed.
+[2026.06.24-08.27.11:953][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-08.27.12:002][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/BP_Relic" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/BP_Relic.uasset" SILENT=true
+[2026.06.24-08.27.12:006][140]LogSavePackage: Moving output files for package: /Game/StarterContent/BP_Relic
+[2026.06.24-08.27.12:007][140]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic4F6E17FE4C707505BC1AC196EE9C6420.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/BP_Relic.uasset'
+[2026.06.24-08.27.12:012][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.25 sec)
+[2026.06.24-08.27.12:018][140]AssetCheck: New page: Asset Save: BP_Relic
+[2026.06.24-08.27.12:018][140]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/BP_Relic.BP_Relic
+[2026.06.24-08.27.13:190][215]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.24-08.27.13:194][215]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.06.24-08.27.13:195][215]LogWorldPartition: Display: GenerateStreaming started...
+[2026.06.24-08.27.13:195][215]LogWorldPartition: Display: GetPartitionedActors started...
+[2026.06.24-08.27.13:195][215]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 534 us)
+[2026.06.24-08.27.13:195][215]LogWorldPartition: Display: GenerateStreaming took 130 us (total: 996 us)
+[2026.06.24-08.27.13:195][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.24-08.27.13:195][215]PIE: New page: PIE session: ThirdPersonMap (24 Ιουν 2026, 2:27:13 μ.μ.)
+[2026.06.24-08.27.13:195][215]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-08.27.13:200][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003932s)
+[2026.06.24-08.27.13:200][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003970s)
+[2026.06.24-08.27.13:200][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.27.13:200][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-08.27.13:200][215]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2026.06.24-08.27.13:201][215]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.24-08.27.13:201][215]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.24-08.27.13:201][215]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2026.06.24-08.27.13:201][215]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2026.06.24-08.27.13:202][215]LogWorldPartition: Display: WorldPartition initialize took 800 us (total: 46 ms)
+[2026.06.24-08.27.13:202][215]LogPlayLevel: PIE: World Init took: (0.001736s)
+[2026.06.24-08.27.13:219][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.06.24-08.27.13:221][215]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.06.24-08.27.13:221][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.24-08.27.13:221][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.24-08.27.13:221][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.24-08.27.13:221][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.24-08.27.13:221][215]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.24-08.27.13:221][215]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.06.24-08.27.13:221][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.24-08.27.13:221][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.24-08.27.13:221][215]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.24-08.27.13:221][215]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.24-08.27.13:221][215]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.24-08.27.13:223][215]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.24-08.27.13:243][215]LogAudioMixer: Display: Using Audio Hardware Device (ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.06.24-08.27.13:244][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.24-08.27.13:244][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.24-08.27.13:244][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.24-08.27.13:244][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.06.24-08.27.13:244][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.06.24-08.27.13:246][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.06.24-08.27.13:246][215]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.06.24-08.27.13:246][215]LogInit: FAudioDevice initialized with ID 3.
+[2026.06.24-08.27.13:246][215]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2026.06.24-08.27.13:246][215]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.06.24-08.27.13:248][215]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-08.27.13:249][215]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.06.24-11.27.13
+[2026.06.24-08.27.13:250][215]LogWorld: Bringing up level for play took: 0.001257
+[2026.06.24-08.27.13:251][215]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.06.24-08.27.13:255][215]PIE: Server logged in
+[2026.06.24-08.27.13:255][215]PIE: Play in editor total start time 0,061 seconds.
+[2026.06.24-08.27.13:270][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:270][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:271][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:271][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:271][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:271][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:272][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:272][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:272][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:273][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:274][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:274][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:283][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:283][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:284][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:284][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:284][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:284][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:285][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:285][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:285][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:286][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:287][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.13:287][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.17:167][308]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1135653920] 2
+[2026.06.24-08.27.17:726][331]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.19:302][397]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1141237922] 3
+[2026.06.24-08.27.19:740][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.21:912][506]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1138685921] 4
+[2026.06.24-08.27.22:792][542]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.24:207][599]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1144809923] 5
+[2026.06.24-08.27.24:816][627]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.26:558][708]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D4E702_2086241743] 6
+[2026.06.24-08.27.26:822][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.28:256][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-08.27.28:256][786]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-08.27.28:256][786]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-08.27.28:256][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-08.27.28:256][786]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2026.06.24-08.27.28:278][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.24-08.27.28:281][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-08.27.28:298][786]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.24-08.27.28:298][786]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.06.24-08.27.28:298][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.06.24-08.27.28:301][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.06.24-08.27.28:303][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-08.27.28:306][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.06.24-08.27.28:347][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.28:353][787]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.06.24-08.27.28:367][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.27.53:964][425]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.24-08.27.53:964][425]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.24-08.28.34:840][ 52]BlueprintLog: New page: Compile BP_Relic
+[2026.06.24-08.28.34:881][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.06.24-08.28.36:280][143]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.24-08.28.36:285][143]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.06.24-08.28.36:286][143]LogWorldPartition: Display: GenerateStreaming started...
+[2026.06.24-08.28.36:286][143]LogWorldPartition: Display: GetPartitionedActors started...
+[2026.06.24-08.28.36:286][143]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 539 us)
+[2026.06.24-08.28.36:286][143]LogWorldPartition: Display: GenerateStreaming took 122 us (total: 1 ms)
+[2026.06.24-08.28.36:287][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.24-08.28.36:287][143]PIE: New page: PIE session: ThirdPersonMap (24 Ιουν 2026, 2:28:36 μ.μ.)
+[2026.06.24-08.28.36:287][143]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-08.28.36:290][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003310s)
+[2026.06.24-08.28.36:290][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003344s)
+[2026.06.24-08.28.36:290][143]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.28.36:290][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-08.28.36:291][143]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2026.06.24-08.28.36:291][143]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.24-08.28.36:291][143]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.24-08.28.36:291][143]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2026.06.24-08.28.36:292][143]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2026.06.24-08.28.36:292][143]LogWorldPartition: Display: WorldPartition initialize took 756 us (total: 47 ms)
+[2026.06.24-08.28.36:292][143]LogPlayLevel: PIE: World Init took: (0.001655s)
+[2026.06.24-08.28.36:309][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.06.24-08.28.36:310][143]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.06.24-08.28.36:310][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.24-08.28.36:310][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.24-08.28.36:311][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.24-08.28.36:311][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.24-08.28.36:311][143]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.24-08.28.36:311][143]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.06.24-08.28.36:311][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.24-08.28.36:311][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.24-08.28.36:311][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.24-08.28.36:311][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.24-08.28.36:311][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.24-08.28.36:313][143]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.24-08.28.36:332][143]LogAudioMixer: Display: Using Audio Hardware Device (ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.06.24-08.28.36:332][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.24-08.28.36:332][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.24-08.28.36:332][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.24-08.28.36:333][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.06.24-08.28.36:333][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.06.24-08.28.36:334][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.06.24-08.28.36:334][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.06.24-08.28.36:334][143]LogInit: FAudioDevice initialized with ID 4.
+[2026.06.24-08.28.36:334][143]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2026.06.24-08.28.36:334][143]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.06.24-08.28.36:336][143]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-08.28.36:338][143]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.06.24-11.28.36
+[2026.06.24-08.28.36:338][143]LogWorld: Bringing up level for play took: 0.001380
+[2026.06.24-08.28.36:339][143]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.06.24-08.28.36:343][143]PIE: Server logged in
+[2026.06.24-08.28.36:343][143]PIE: Play in editor total start time 0,059 seconds.
+[2026.06.24-08.28.36:359][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:359][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:359][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:360][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:360][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:360][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:360][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:361][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:361][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:361][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:362][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:362][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:369][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:369][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:370][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:370][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:370][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:371][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:371][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:371][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:371][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:372][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:372][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.36:372][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.39:846][230]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1135653920] 1
+[2026.06.24-08.28.40:690][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.41:903][306]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1141237922] 2
+[2026.06.24-08.28.42:715][337]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.43:025][349]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1138685921] 3
+[2026.06.24-08.28.43:735][376]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.44:971][424]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1144809923] 4
+[2026.06.24-08.28.45:739][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.48:083][547]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D4E702_2086241743] 5
+[2026.06.24-08.28.48:761][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.51:325][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-08.28.51:325][696]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-08.28.51:325][696]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-08.28.51:326][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-08.28.51:326][696]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2026.06.24-08.28.51:346][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.24-08.28.51:348][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-08.28.51:365][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.24-08.28.51:365][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.06.24-08.28.51:365][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.06.24-08.28.51:368][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.06.24-08.28.51:371][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-08.28.51:373][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.24-08.28.51:404][696]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.28.51:410][697]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.06.24-08.28.51:424][697]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:334][754]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.24-08.29.01:342][754]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.06.24-08.29.01:344][754]LogWorldPartition: Display: GenerateStreaming started...
+[2026.06.24-08.29.01:344][754]LogWorldPartition: Display: GetPartitionedActors started...
+[2026.06.24-08.29.01:344][754]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 547 us)
+[2026.06.24-08.29.01:344][754]LogWorldPartition: Display: GenerateStreaming took 129 us (total: 1 ms)
+[2026.06.24-08.29.01:344][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.24-08.29.01:344][754]PIE: New page: PIE session: ThirdPersonMap (24 Ιουν 2026, 2:29:01 μ.μ.)
+[2026.06.24-08.29.01:344][754]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-08.29.01:348][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003412s)
+[2026.06.24-08.29.01:348][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003446s)
+[2026.06.24-08.29.01:348][754]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.29.01:348][754]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-08.29.01:348][754]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2026.06.24-08.29.01:348][754]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.24-08.29.01:348][754]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.24-08.29.01:348][754]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2026.06.24-08.29.01:349][754]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2026.06.24-08.29.01:349][754]LogWorldPartition: Display: WorldPartition initialize took 767 us (total: 48 ms)
+[2026.06.24-08.29.01:349][754]LogPlayLevel: PIE: World Init took: (0.001615s)
+[2026.06.24-08.29.01:366][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.06.24-08.29.01:367][754]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.06.24-08.29.01:367][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.24-08.29.01:367][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.24-08.29.01:367][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.24-08.29.01:367][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.24-08.29.01:367][754]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.24-08.29.01:367][754]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.06.24-08.29.01:367][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.24-08.29.01:367][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.24-08.29.01:368][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.24-08.29.01:368][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.24-08.29.01:368][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.24-08.29.01:370][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.24-08.29.01:389][754]LogAudioMixer: Display: Using Audio Hardware Device (ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.06.24-08.29.01:389][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.24-08.29.01:389][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.24-08.29.01:389][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.24-08.29.01:390][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.06.24-08.29.01:390][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.06.24-08.29.01:391][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.06.24-08.29.01:391][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.06.24-08.29.01:391][754]LogInit: FAudioDevice initialized with ID 5.
+[2026.06.24-08.29.01:391][754]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2026.06.24-08.29.01:391][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.06.24-08.29.01:393][754]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-08.29.01:395][754]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.06.24-11.29.01
+[2026.06.24-08.29.01:395][754]LogWorld: Bringing up level for play took: 0.001321
+[2026.06.24-08.29.01:397][754]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.06.24-08.29.01:401][754]PIE: Server logged in
+[2026.06.24-08.29.01:401][754]PIE: Play in editor total start time 0,059 seconds.
+[2026.06.24-08.29.01:416][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:416][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:417][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:417][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:417][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:418][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:418][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:418][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:419][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:419][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:420][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:420][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:425][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:426][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:426][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:427][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:427][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:427][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:427][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:427][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:427][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:428][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:429][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.01:429][755]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.07:046][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-08.29.07:046][951]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-08.29.07:046][951]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-08.29.07:046][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-08.29.07:046][951]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2026.06.24-08.29.07:083][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.24-08.29.07:086][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-08.29.07:103][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-08.29.07:103][951]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.06.24-08.29.07:103][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.06.24-08.29.07:104][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.06.24-08.29.07:110][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.06.24-08.29.07:138][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.07:143][952]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.06.24-08.29.07:204][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:234][995]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.24-08.29.08:238][995]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.06.24-08.29.08:239][995]LogWorldPartition: Display: GenerateStreaming started...
+[2026.06.24-08.29.08:240][995]LogWorldPartition: Display: GetPartitionedActors started...
+[2026.06.24-08.29.08:240][995]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 553 us)
+[2026.06.24-08.29.08:240][995]LogWorldPartition: Display: GenerateStreaming took 119 us (total: 1 ms)
+[2026.06.24-08.29.08:240][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.24-08.29.08:240][995]PIE: New page: PIE session: ThirdPersonMap (24 Ιουν 2026, 2:29:08 μ.μ.)
+[2026.06.24-08.29.08:240][995]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-08.29.08:243][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003109s)
+[2026.06.24-08.29.08:243][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003138s)
+[2026.06.24-08.29.08:243][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-08.29.08:243][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-08.29.08:244][995]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2026.06.24-08.29.08:244][995]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.24-08.29.08:244][995]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.24-08.29.08:244][995]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2026.06.24-08.29.08:245][995]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2026.06.24-08.29.08:245][995]LogWorldPartition: Display: WorldPartition initialize took 732 us (total: 48 ms)
+[2026.06.24-08.29.08:245][995]LogPlayLevel: PIE: World Init took: (0.001537s)
+[2026.06.24-08.29.08:261][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.06.24-08.29.08:262][995]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.06.24-08.29.08:262][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.24-08.29.08:262][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.24-08.29.08:262][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.24-08.29.08:262][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.24-08.29.08:262][995]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.24-08.29.08:262][995]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.06.24-08.29.08:262][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.24-08.29.08:262][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.24-08.29.08:263][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.24-08.29.08:263][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.24-08.29.08:263][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.24-08.29.08:264][995]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.24-08.29.08:284][995]LogAudioMixer: Display: Using Audio Hardware Device (ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.06.24-08.29.08:284][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.24-08.29.08:284][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.24-08.29.08:284][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.24-08.29.08:284][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.06.24-08.29.08:285][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.06.24-08.29.08:286][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.06.24-08.29.08:286][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.06.24-08.29.08:286][995]LogInit: FAudioDevice initialized with ID 6.
+[2026.06.24-08.29.08:286][995]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2026.06.24-08.29.08:286][995]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.06.24-08.29.08:289][995]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-08.29.08:290][995]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.06.24-11.29.08
+[2026.06.24-08.29.08:290][995]LogWorld: Bringing up level for play took: 0.001228
+[2026.06.24-08.29.08:292][995]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.06.24-08.29.08:295][995]PIE: Server logged in
+[2026.06.24-08.29.08:295][995]PIE: Play in editor total start time 0,057 seconds.
+[2026.06.24-08.29.08:317][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:317][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:317][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:318][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:318][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:318][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:319][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:319][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:319][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:319][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:320][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:321][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:326][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:327][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:327][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:327][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:327][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:328][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:328][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:329][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:329][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:329][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:330][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.08:330][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.14:428][240]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1135653920] 1
+[2026.06.24-08.29.14:956][265]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.16:906][357]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1141237922] 2
+[2026.06.24-08.29.16:975][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.19:784][494]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1138685921] 3
+[2026.06.24-08.29.20:028][505]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.20:840][543]LogBlueprintUserMessages: [BP_Relic_C_UAID_D85ED33287E9D5E702_1144809923] 4
+[2026.06.24-08.29.21:043][552]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.22:477][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-08.29.22:477][618]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.24-08.29.22:477][618]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-08.29.22:477][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-08.29.22:477][618]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2026.06.24-08.29.22:483][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.24-08.29.22:486][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-08.29.22:503][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-08.29.22:503][618]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.06.24-08.29.22:503][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.06.24-08.29.22:504][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.06.24-08.29.22:510][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.06.24-08.29.22:605][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.22:612][619]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.06.24-08.29.22:626][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.24-08.29.24:739][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-08.29.24:800][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/BP_Relic" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/BP_Relic.uasset" SILENT=true
+[2026.06.24-08.29.24:805][723]LogSavePackage: Moving output files for package: /Game/StarterContent/BP_Relic
+[2026.06.24-08.29.24:805][723]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_RelicE86076F04F2956A97F831C9B7C4DDD41.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/BP_Relic.uasset'
+[2026.06.24-08.29.24:812][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.32 sec)
+[2026.06.24-08.29.24:816][723]AssetCheck: New page: Asset Save: BP_Relic
+[2026.06.24-08.29.24:817][723]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/BP_Relic.BP_Relic
