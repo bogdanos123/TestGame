@@ -3329,3 +3329,90 @@ Script Stack (0 frames) :
 [2026.06.24-08.29.24:812][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.32 sec)
 [2026.06.24-08.29.24:816][723]AssetCheck: New page: Asset Save: BP_Relic
 [2026.06.24-08.29.24:817][723]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/BP_Relic.BP_Relic
+[2026.06.24-08.33.01:497][371]BlueprintLog: New page: Compile BP_Relic
+[2026.06.24-08.33.01:536][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.24-08.33.02:268][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-08.33.02:314][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/BP_Relic" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/BP_Relic.uasset" SILENT=true
+[2026.06.24-08.33.02:318][454]LogSavePackage: Moving output files for package: /Game/StarterContent/BP_Relic
+[2026.06.24-08.33.02:319][454]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic0E1A66EE420C873FC36CE7967E02E8D7.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/BP_Relic.uasset'
+[2026.06.24-08.33.02:324][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1.38 sec)
+[2026.06.24-08.33.02:329][454]AssetCheck: New page: Asset Save: BP_Relic
+[2026.06.24-08.33.02:330][454]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/BP_Relic.BP_Relic
+[2026.06.24-08.35.38:116][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.06.24-08.35.38:119][229]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V_Auto4
+[2026.06.24-08.35.38:119][229]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/YMOMQCJ7NP16V8KLG5L37V_Auto41A7B0CF94CA8534B68E81B8CB6E07D8E.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7H/YMOMQCJ7NP16V8KLG5L37V_Auto4.uasset'
+[2026.06.24-08.35.38:121][229]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW_Auto4
+[2026.06.24-08.35.38:121][229]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/01T6PXZGPMWYRBL4D1HLJW_Auto440C6AB844F2E3ED864ADA8825699D79B.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LA/01T6PXZGPMWYRBL4D1HLJW_Auto4.uasset'
+[2026.06.24-08.35.38:123][229]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU_Auto4
+[2026.06.24-08.35.38:123][229]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/0V6PBNZNY0O85C44XVVCQU_Auto495B7FCA0463B2AD4F92D4E88BDCAF36F.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XS/0V6PBNZNY0O85C44XVVCQU_Auto4.uasset'
+[2026.06.24-08.35.38:124][229]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF_Auto4
+[2026.06.24-08.35.38:124][229]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/TYLYWZDEMGWAY2ECSL8PRF_Auto42E0F2DB14858985DEEA3B2B1D4AB67DC.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KB/TYLYWZDEMGWAY2ECSL8PRF_Auto4.uasset'
+[2026.06.24-08.35.38:126][229]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA_Auto4
+[2026.06.24-08.35.38:126][229]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/6DGNQG2PPWRPCGUJLGIFVA_Auto46AC252D24450068D4BC192A6997D6ED2.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TL/6DGNQG2PPWRPCGUJLGIFVA_Auto4.uasset'
+[2026.06.24-08.35.38:126][229]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2026.06.24-08.35.38:126][229]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2026.06.24-08.37.03:541][658]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-08.37.03:541][658]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-08.38.03:246][592]BlueprintLog: New page: Compile BP_Relic
+[2026.06.24-08.38.03:286][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.24-08.38.04:023][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-08.38.04:068][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/BP_Relic" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/BP_Relic.uasset" SILENT=true
+[2026.06.24-08.38.04:072][670]LogSavePackage: Moving output files for package: /Game/StarterContent/BP_Relic
+[2026.06.24-08.38.04:073][670]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic18C95EFF41919D9984B5C38FFD171B54.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/StarterContent/BP_Relic.uasset'
+[2026.06.24-08.38.04:078][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.43 sec)
+[2026.06.24-08.38.04:083][670]AssetCheck: New page: Asset Save: BP_Relic
+[2026.06.24-08.38.04:083][670]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/BP_Relic.BP_Relic
+[2026.06.24-08.39.39:876][253]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.06.24-08.39.39:885][253]LogContentBrowser: Creating deferred item: NewFolder
+[2026.06.24-08.39.39:893][254]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.06.24-08.39.47:904][618]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2026.06.24-08.39.47:904][618]LogContentBrowser: End creating deferred item NewFolder
+[2026.06.24-08.39.52:522][812]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.06.24-08.39.52:534][812]LogContentBrowser: Creating deferred item: NewFolder
+[2026.06.24-08.39.52:550][814]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.06.24-08.39.54:532][905]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2026.06.24-08.39.54:533][905]LogContentBrowser: End creating deferred item NewFolder
+[2026.06.24-08.39.56:254][978]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.06.24-08.39.56:264][978]LogContentBrowser: Creating deferred item: NewFolder
+[2026.06.24-08.39.56:271][979]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.06.24-08.39.59:930][147]LogContentBrowser: Attempting asset rename: NewFolder -> Pickups
+[2026.06.24-08.39.59:930][147]LogContentBrowser: End creating deferred item NewFolder
+[2026.06.24-08.40.37:883][ 44]LogMetaData: Removing '/Game/Blueprints/BP_Relic.BP_Relic:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.37:883][ 44]LogMetaData: Removing '/Game/Blueprints/BP_Relic.SKEL_BP_Relic_C' ref from Metadata '/Game/StarterContent/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.37:883][ 44]LogMetaData: Removing '/Game/Blueprints/BP_Relic.BP_Relic_C' ref from Metadata '/Game/StarterContent/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.37:883][ 44]LogMetaData: Removing '/Game/Blueprints/BP_Relic.BP_Relic:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.37:883][ 44]LogMetaData: Removing '/Game/Blueprints/BP_Relic.BP_Relic:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.37:883][ 44]LogMetaData: Removing '/Game/Blueprints/BP_Relic.BP_Relic:EventGraph.K2Node_Event_2' ref from Metadata '/Game/StarterContent/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.37:883][ 44]LogMetaData: Removing '/Game/Blueprints/BP_Relic.SKEL_BP_Relic_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.37:883][ 44]LogMetaData: Removing '/Game/Blueprints/BP_Relic.SKEL_BP_Relic_C:BndEvt__BP_Relic_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/StarterContent/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.37:886][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-08.40.37:916][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Relic" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/BP_Relic.uasset" SILENT=true
+[2026.06.24-08.40.37:920][ 44]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Relic
+[2026.06.24-08.40.37:921][ 44]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_RelicB13D1687442F4ADFBBEBA8896871BCA6.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/BP_Relic.uasset'
+[2026.06.24-08.40.37:930][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.48 sec)
+[2026.06.24-08.40.37:962][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.06.24-08.40.37:982][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.06.24-08.40.37:998][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.06.24-08.40.38:015][ 44]AssetCheck: New page: Asset Save: BP_Relic
+[2026.06.24-08.40.38:015][ 44]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Relic.BP_Relic
+[2026.06.24-08.40.49:136][560]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic.BP_Relic_C' ref from Metadata '/Game/Blueprints/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.49:136][560]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic.SKEL_BP_Relic_C' ref from Metadata '/Game/Blueprints/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.49:136][560]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic.SKEL_BP_Relic_C:BndEvt__BP_Relic_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.49:136][560]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic.SKEL_BP_Relic_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.49:136][560]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_Relic.BP_Relic:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Relic.PackageMetaData'
+[2026.06.24-08.40.49:136][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-08.40.49:160][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_Relic" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic.uasset" SILENT=true
+[2026.06.24-08.40.49:164][560]LogSavePackage: Moving output files for package: /Game/Blueprints/Pickups/BP_Relic
+[2026.06.24-08.40.49:164][560]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic5F83B2604C16C9FBDB2797A1D86B877A.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic.uasset'
+[2026.06.24-08.40.49:174][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 1.52 sec)
+[2026.06.24-08.40.49:202][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.06.24-08.40.49:220][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.24-08.40.49:237][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.06.24-08.40.49:251][560]AssetCheck: New page: Asset Save: BP_Relic
+[2026.06.24-08.40.49:251][560]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Pickups/BP_Relic.BP_Relic
+[2026.06.24-08.41.08:156][863]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.06.24-08.41.08:178][863]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.06.24-08.41.08:183][863]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.06.24-08.41.08:208][865]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.06.24-08.41.13:971][142]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_HUD
+[2026.06.24-08.41.13:986][142]LogContentBrowser: End creating deferred item NewWidgetBlueprint
