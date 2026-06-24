@@ -7720,3 +7720,735 @@ Script Stack (0 frames) :
 [2026.06.24-09.55.19:981][948]LogContentValidation: Display: Validating /Game/Blueprints/Hazards/BP_KillZone.BP_KillZone_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_KillZone_C_UAID_D85ED33287E9D9E702_1306885628
 [2026.06.24-09.55.19:981][948]LogContentValidation: Display: Validating /Game/Blueprints/Pickups/BP_Relic.BP_Relic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Relic_C_UAID_D85ED33287E9D5E702_1141237922
 [2026.06.24-09.55.19:981][948]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED33287E9D9E702_2006711638
+[2026.06.24-09.55.45:437][110]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-09.55.45:438][110]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.24-10.20.00:507][ 97]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.06.24-10.20.00:521][ 97]LogContentBrowser: Creating deferred item: NewFolder
+[2026.06.24-10.20.00:529][ 98]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.06.24-10.20.04:785][420]LogContentBrowser: Attempting asset rename: NewFolder -> Interactables
+[2026.06.24-10.20.04:786][420]LogContentBrowser: End creating deferred item NewFolder
+[2026.06.24-10.20.12:237][888]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.06.24-10.20.12:243][888]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.06.24-10.20.12:250][888]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.06.24-10.20.12:271][890]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.06.24-10.20.16:807][233]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Portal
+[2026.06.24-10.20.16:813][233]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.06.24-10.20.26:160][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.06.24-10.20.29:524][932]LogSlate: Window 'Save Content' being destroyed
+[2026.06.24-10.20.29:533][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-10.20.29:552][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interactables/BP_Portal" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Interactables/BP_Portal.uasset" SILENT=true
+[2026.06.24-10.20.29:555][932]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/BP_Portal
+[2026.06.24-10.20.29:555][932]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Portal53DCD55C4335216D7EADEA8B2B6DEA77.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Interactables/BP_Portal.uasset'
+[2026.06.24-10.20.29:564][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 3.23 sec)
+[2026.06.24-10.20.29:567][932]AssetCheck: New page: Asset Save: BP_Portal
+[2026.06.24-10.20.29:567][932]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Interactables/BP_Portal.BP_Portal
+[2026.06.24-10.20.35:374][353]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-10.20.35:374][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-10.20.35:414][353]LogViewport: Scene viewport resized to 1119x914, mode Windowed.
+[2026.06.24-10.20.35:439][354]LogViewport: Scene viewport resized to 1119x903, mode Windowed.
+[2026.06.24-10.20.35:472][355]LogViewport: Scene viewport resized to 1119x891, mode Windowed.
+[2026.06.24-10.20.35:501][356]LogViewport: Scene viewport resized to 1119x888, mode Windowed.
+[2026.06.24-10.25.08:997][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/BP_Portal.BP_Portal
+[2026.06.24-10.25.08:998][655]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-10.25.08:998][655]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-10.25.09:074][655]LogViewport: Scene viewport resized to 872x680, mode Windowed.
+[2026.06.24-10.25.52:207][700]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-10.26.09:139][717]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:139][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:139][717]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:139][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:140][717]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:140][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:148][718]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:148][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:148][718]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:148][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:148][718]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:148][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:148][718]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:148][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:155][719]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:155][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:155][719]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:155][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:156][719]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:156][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:156][719]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:156][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:164][720]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:164][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:164][720]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:164][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:165][720]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:165][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:165][720]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:165][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:177][721]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:177][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:177][721]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:177][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:177][721]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:177][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:177][721]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:177][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:186][722]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:186][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:186][722]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:186][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:186][722]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:186][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:186][722]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:186][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:194][723]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:194][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:194][723]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:194][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:195][723]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:195][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:195][723]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:195][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:204][724]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:204][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:204][724]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:204][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:205][724]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:205][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:205][724]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:205][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:212][725]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:212][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:212][725]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:212][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:212][725]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:213][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:213][725]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:213][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:221][726]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:221][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:221][726]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:221][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:222][726]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:222][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:222][726]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:222][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:230][727]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:230][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:230][727]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:230][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:230][727]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:230][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:230][727]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:230][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:239][728]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:239][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:239][728]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:239][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:239][728]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:239][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:239][728]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:240][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:248][729]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:248][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:248][729]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:248][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:248][729]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:248][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:248][729]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:248][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:255][730]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:255][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:255][730]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:255][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:256][730]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:256][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:256][730]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:256][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:264][731]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:264][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:264][731]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:264][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:264][731]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:264][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:264][731]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:264][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:272][732]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:272][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:272][732]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:272][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:272][732]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:272][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:272][732]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:272][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:281][733]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:281][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:281][733]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:281][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:281][733]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:281][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:281][733]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:281][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:289][734]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:289][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:289][734]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:289][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:289][734]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:289][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:289][734]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:289][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:298][735]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:298][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:298][735]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:298][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:555][766]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:556][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:556][766]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:556][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:557][766]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:557][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:564][767]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:564][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:564][767]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:564][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:565][767]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:565][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:565][767]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:565][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:573][768]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:573][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:573][768]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:573][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:573][768]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:573][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:573][768]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:573][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:581][769]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:581][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:581][769]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:581][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:581][769]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:581][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:581][769]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:581][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:589][770]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:589][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:589][770]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:589][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:590][770]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:590][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:590][770]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:590][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:597][771]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:597][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:597][771]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:598][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:598][771]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:598][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:598][771]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:598][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:605][772]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:605][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:605][772]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:605][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:606][772]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:606][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:606][772]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:606][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:614][773]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:614][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:614][773]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:614][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:614][773]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:614][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:614][773]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:614][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:622][774]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:622][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:622][774]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:622][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:622][774]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:622][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:622][774]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:622][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:631][775]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:631][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:631][775]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:631][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:631][775]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:631][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:631][775]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:631][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:639][776]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:639][776]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:639][776]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:639][776]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:640][776]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:640][776]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:640][776]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:640][776]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:647][777]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:647][777]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:648][777]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:648][777]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:648][777]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:648][777]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:648][777]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:648][777]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:655][778]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:655][778]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:655][778]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:655][778]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:656][778]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:656][778]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:656][778]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:656][778]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:664][779]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:664][779]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:664][779]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:664][779]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:664][779]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:664][779]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:664][779]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:664][779]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:672][780]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:672][780]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:672][780]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:672][780]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:672][780]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:672][780]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:672][780]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:672][780]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:681][781]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:681][781]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:681][781]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:681][781]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:681][781]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:681][781]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:681][781]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:681][781]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:689][782]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:689][782]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:689][782]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:689][782]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:689][782]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:689][782]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:689][782]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:689][782]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:697][783]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:698][783]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:698][783]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:698][783]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:698][783]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:698][783]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:698][783]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:698][783]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:705][784]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:705][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:705][784]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:705][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:706][784]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:706][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:706][784]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:706][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:714][785]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:714][785]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:714][785]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:714][785]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:714][785]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:714][785]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:714][785]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:714][785]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:722][786]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:722][786]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:722][786]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:722][786]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:722][786]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:722][786]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:722][786]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:722][786]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:731][787]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:731][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:731][787]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:731][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:731][787]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:731][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:731][787]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:731][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:739][788]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:739][788]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:739][788]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:739][788]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:739][788]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:739][788]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:739][788]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:739][788]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:747][789]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:747][789]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:748][789]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:748][789]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:748][789]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:748][789]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:748][789]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:748][789]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:755][790]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:755][790]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:755][790]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:755][790]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:755][790]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:755][790]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:755][790]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:755][790]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:764][791]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:764][791]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:764][791]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:764][791]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:764][791]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:764][791]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:764][791]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:764][791]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:772][792]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:772][792]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:772][792]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:772][792]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:772][792]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:772][792]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:772][792]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:772][792]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:780][793]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:780][793]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:780][793]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:780][793]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:781][793]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:781][793]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:781][793]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:781][793]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:789][794]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:789][794]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:789][794]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:789][794]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:789][794]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:789][794]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:789][794]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:789][794]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:797][795]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:797][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:797][795]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:797][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:797][795]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:797][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:797][795]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:797][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:805][796]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:805][796]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:805][796]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:805][796]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:805][796]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:805][796]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:805][796]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:805][796]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:814][797]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:814][797]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:814][797]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:814][797]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:814][797]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:814][797]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:814][797]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:814][797]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:822][798]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:822][798]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:822][798]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:822][798]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:822][798]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:822][798]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:822][798]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:822][798]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:830][799]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:830][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:830][799]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:830][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:830][799]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:830][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:830][799]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:830][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:839][800]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:839][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:839][800]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:839][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:839][800]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:839][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:839][800]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:839][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:847][801]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:847][801]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:847][801]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:847][801]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:847][801]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:847][801]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:847][801]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:847][801]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:856][802]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:856][802]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:856][802]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:856][802]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:856][802]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:856][802]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:856][802]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:856][802]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:864][803]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:864][803]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:864][803]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:864][803]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:864][803]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:864][803]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:864][803]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:864][803]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:872][804]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:872][804]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:872][804]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:872][804]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:872][804]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:872][804]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:872][804]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:872][804]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:881][805]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:881][805]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:881][805]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:881][805]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:881][805]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:881][805]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:881][805]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:881][805]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:889][806]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:889][806]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:889][806]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:889][806]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:889][806]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:889][806]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:889][806]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:889][806]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:897][807]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:897][807]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:897][807]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:897][807]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:897][807]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:897][807]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:897][807]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:897][807]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:905][808]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:905][808]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:905][808]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:905][808]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:905][808]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:905][808]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:905][808]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:905][808]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:914][809]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:914][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:914][809]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:914][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:914][809]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:914][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:914][809]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:914][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:922][810]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:922][810]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:923][810]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:923][810]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:923][810]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:923][810]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:923][810]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:923][810]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:931][811]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:931][811]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:931][811]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:931][811]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:931][811]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:931][811]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:931][811]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:931][811]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:939][812]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:939][812]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:939][812]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:939][812]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:940][812]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:940][812]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:940][812]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:940][812]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:947][813]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:947][813]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:947][813]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:947][813]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:948][813]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:948][813]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:948][813]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:948][813]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:956][814]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:956][814]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:956][814]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:956][814]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:956][814]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:956][814]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:956][814]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:956][814]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:964][815]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:964][815]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:964][815]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:964][815]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:965][815]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:965][815]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:965][815]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:965][815]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:973][816]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:973][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:973][816]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:973][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:973][816]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:973][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:973][816]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:973][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:981][817]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:981][817]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:981][817]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:981][817]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:981][817]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:981][817]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:981][817]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:981][817]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:989][818]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:989][818]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:989][818]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:989][818]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:989][818]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:989][818]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:989][818]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:989][818]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:998][819]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:998][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:998][819]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:998][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.09:998][819]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:998][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.09:998][819]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.09:998][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:005][820]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:005][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:006][820]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:006][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.10:006][820]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:006][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:006][820]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:006][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:014][821]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:014][821]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:014][821]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:014][821]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.10:014][821]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:014][821]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:014][821]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:015][821]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:022][822]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:022][822]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:022][822]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:022][822]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.10:023][822]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:023][822]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:023][822]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:023][822]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:031][823]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:031][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:031][823]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:031][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.10:031][823]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:031][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:031][823]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:031][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:039][824]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:039][824]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:039][824]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:039][824]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.10:039][824]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:039][824]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:039][824]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:039][824]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:048][825]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:048][825]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:048][825]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:048][825]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.10:048][825]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:048][825]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:048][825]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:048][825]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:055][826]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:056][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:056][826]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:056][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.10:056][826]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:056][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:056][826]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:056][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:064][827]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:064][827]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:064][827]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:064][827]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.Box' 
+[2026.06.24-10.26.10:065][827]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:065][827]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:065][827]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:065][827]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:072][828]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:072][828]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.10:072][828]LogPhysics: Warning: Scale for /Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.06.24-10.26.10:072][828]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_23:PersistentLevel.BP_Portal_C_0.StaticMesh' 
+[2026.06.24-10.26.26:252][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-10.26.26:287][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interactables/BP_Portal" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Interactables/BP_Portal.uasset" SILENT=true
+[2026.06.24-10.26.26:289][778]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/BP_Portal
+[2026.06.24-10.26.26:290][778]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Portal6662B37342FE5CCA23E72CB2834BF6F3.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Interactables/BP_Portal.uasset'
+[2026.06.24-10.26.26:295][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 3.27 sec)
+[2026.06.24-10.26.26:305][778]AssetCheck: New page: Asset Save: BP_Portal
+[2026.06.24-10.26.26:305][778]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Interactables/BP_Portal.BP_Portal
+[2026.06.24-10.27.00:878][881]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.24-10.27.08:082][729]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.24-10.27.33:308][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-10.27.33:347][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interactables/BP_Portal" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Interactables/BP_Portal.uasset" SILENT=true
+[2026.06.24-10.27.33:350][303]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/BP_Portal
+[2026.06.24-10.27.33:351][303]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_PortalC3064038478BFE67449C4EAADBE3C3D6.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Interactables/BP_Portal.uasset'
+[2026.06.24-10.27.33:356][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 3.32 sec)
+[2026.06.24-10.27.33:362][303]AssetCheck: New page: Asset Save: BP_Portal
+[2026.06.24-10.27.33:362][303]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Interactables/BP_Portal.BP_Portal
+[2026.06.24-10.27.54:722][827]BlueprintLog: New page: Compile BP_Portal
+[2026.06.24-10.27.54:884][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.06.24-10.29.46:864][756]BlueprintLog: New page: Compile BP_Portal
+[2026.06.24-10.29.46:866][756]LogBlueprint: Error: [AssetLog] C:\Users\Aorus\Documents\GitHub\SkyRelicRush\SRR\Content\Blueprints\Interactables\BP_Portal.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_ThirdPersonCharacter  to imply a specific type.
+[2026.06.24-10.29.46:866][756]LogBlueprint: Error: [AssetLog] C:\Users\Aorus\Documents\GitHub\SkyRelicRush\SRR\Content\Blueprints\Interactables\BP_Portal.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2026.06.24-10.29.46:900][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.06.24-10.30.04:171][813]BlueprintLog: New page: Compile BP_Portal
+[2026.06.24-10.30.04:204][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.06.24-10.30.05:579][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-10.30.05:638][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interactables/BP_Portal" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Interactables/BP_Portal.uasset" SILENT=true
+[2026.06.24-10.30.05:641][969]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/BP_Portal
+[2026.06.24-10.30.05:642][969]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Portal4AA604A34018B2CF9EC31594FEAB216F.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Interactables/BP_Portal.uasset'
+[2026.06.24-10.30.05:648][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.39 sec)
+[2026.06.24-10.30.05:651][969]AssetCheck: New page: Asset Save: BP_Portal
+[2026.06.24-10.30.05:651][969]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Interactables/BP_Portal.BP_Portal
+[2026.06.24-10.30.59:058][214]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.06.24-10.30.59:066][214]LogContentBrowser: Creating deferred item: NewWorld
+[2026.06.24-10.30.59:075][215]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.06.24-10.31.03:167][521]LogContentBrowser: Attempting asset rename: NewWorld -> Level_02
+[2026.06.24-10.31.03:168][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.24-10.31.03:168][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.24-10.31.03:180][521]LogContentBrowser: End creating deferred item NewWorld
+[2026.06.24-10.31.10:680][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-10.31.10:744][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.24-10.31.10:763][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.24-10.31.10:780][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.06.24-10.31.10:787][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 3.50 sec)
+[2026.06.24-10.31.15:537][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.06.24-10.31.15:555][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.06.24-10.31.17:596][424]LogSlate: Window 'Save Content' being destroyed
+[2026.06.24-10.31.17:603][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-10.31.17:627][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Level_02" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.06.24-10.31.17:643][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.06.24-10.31.17:646][424]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_02
+[2026.06.24-10.31.17:646][424]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Level_0204B951CE4FADBA93B3147E91E510806F.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap'
+[2026.06.24-10.31.17:654][424]LogFileHelpers: Saving map 'Level_02' took 0.028
+[2026.06.24-10.31.17:659][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 3.55 sec)
+[2026.06.24-10.31.17:663][424]AssetCheck: New page: Asset Save: Level_02
+[2026.06.24-10.31.17:663][424]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_02.Level_02
