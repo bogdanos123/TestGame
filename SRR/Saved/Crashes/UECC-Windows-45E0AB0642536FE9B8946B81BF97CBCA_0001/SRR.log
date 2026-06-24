@@ -15263,23 +15263,3 @@ Script Stack (0 frames) :
 [2026.06.24-15.36.01:640][971]LogOutputDevice: Error: [Callstack] 0x00007ffd053ae957 KERNEL32.DLL!UnknownFunction []
 [2026.06.24-15.36.01:640][971]LogOutputDevice: Error: [Callstack] 0x00007ffd06807c1c ntdll.dll!UnknownFunction []
 [2026.06.24-15.36.01:640][971]LogOutputDevice: Error: 
-[2026.06.24-15.36.01:640][971]LogStats:                SubmitErrorReport -  0.000 s
-[2026.06.24-15.36.20:040][971]LogStats:                    SendNewReport - 18.400 s
-[2026.06.24-15.36.20:040][971]LogStats:             FDebug::EnsureFailed - 18.559 s
-[2026.06.24-15.36.23:107][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
-[2026.06.24-15.36.23:110][307]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.021
-[2026.06.24-15.36.23:111][307]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_WinScreen] ([2] browsable assets)...
-[2026.06.24-15.36.23:113][307]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_WinScreen.WBP_WinScreen]
-[2026.06.24-15.36.23:113][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_WinScreen]
-[2026.06.24-15.36.23:116][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_WinScreen_Auto4
-[2026.06.24-15.36.23:116][307]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/WBP_WinScreen_Auto4BECBD6494B3D7D86C0F9278A0F6DB6D0.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/Blueprints/UI/WBP_WinScreen_Auto4.uasset'
-[2026.06.24-15.36.23:117][307]LogFileHelpers: Auto-saving content packages took 0.007
-[2026.06.24-15.36.46:092][ 44]BlueprintLog: New page: Compile WBP_WinScreen
-[2026.06.24-15.36.46:118][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
-[2026.06.24-15.36.46:549][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2026.06.24-15.36.46:579][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_WinScreen" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/UI/WBP_WinScreen.uasset" SILENT=true
-[2026.06.24-15.36.46:581][ 92]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_WinScreen
-[2026.06.24-15.36.46:581][ 92]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/WBP_WinScreen777883284F0DFB6C6EAD82A389B8927D.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/UI/WBP_WinScreen.uasset'
-[2026.06.24-15.36.46:587][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 7.65 sec)
-[2026.06.24-15.36.46:594][ 92]AssetCheck: New page: Asset Save: WBP_WinScreen
-[2026.06.24-15.36.46:594][ 92]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_WinScreen.WBP_WinScreen
