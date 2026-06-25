@@ -5036,3 +5036,1356 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.06.25-09.31.27:276][811]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pickups/BP_Relic_Level02_Auto6
 [2026.06.25-09.31.27:276][811]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic_Level02_Auto60E32F8234D3FEAC7E5A882906B48755F.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/Blueprints/Pickups/BP_Relic_Level02_Auto6.uasset'
 [2026.06.25-09.31.27:276][811]LogFileHelpers: Auto-saving content packages took 0.045
+[2026.06.25-09.32.35:242][260]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-09.32.35:244][260]LogObjectTools: Deleting 1 worlds: /Game/ThirdPerson/Maps/NewWorld.NewWorld
+[2026.06.25-09.32.35:244][260]LogObjectTools: Currently 10 active worlds: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11
+[2026.06.25-09.32.35:261][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.25-09.32.36:362][260]LogSlate: Window 'Delete Assets' being destroyed
+[2026.06.25-09.32.36:368][260]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-09.32.36:368][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-09.32.36:391][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.06.25-09.32.36:407][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.06.25-09.32.36:424][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.06.25-09.32.37:201][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.06.25-09.32.37:218][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.25-09.32.39:287][306]LogSlate: Window 'Save Content' being destroyed
+[2026.06.25-09.32.39:299][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.25-09.32.39:341][306]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2S/E2R6X5TV2HW9ZZKR6LKNDM
+[2026.06.25-09.32.39:342][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/E2R6X5TV2HW9ZZKR6LKNDM806C2C0845207A556C39398928F99D70.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2S/E2R6X5TV2HW9ZZKR6LKNDM.uasset'
+[2026.06.25-09.32.39:342][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_Relic_Level01" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level01.uasset" SILENT=true
+[2026.06.25-09.32.39:345][306]LogSavePackage: Moving output files for package: /Game/Blueprints/Pickups/BP_Relic_Level01
+[2026.06.25-09.32.39:346][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic_Level017F90D5B44945EF52A5E036AB9BFCB9B5.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level01.uasset'
+[2026.06.25-09.32.39:347][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_Relic_Level02" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level02.uasset" SILENT=true
+[2026.06.25-09.32.39:349][306]LogSavePackage: Moving output files for package: /Game/Blueprints/Pickups/BP_Relic_Level02
+[2026.06.25-09.32.39:350][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic_Level02A6B7994B4EEC53F2E09264B023CBAFF6.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level02.uasset'
+[2026.06.25-09.32.39:351][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_Relic_Level03" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level03.uasset" SILENT=true
+[2026.06.25-09.32.39:353][306]LogSavePackage: Moving output files for package: /Game/Blueprints/Pickups/BP_Relic_Level03
+[2026.06.25-09.32.39:353][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/BP_Relic_Level0384ECD0FE4A6C8A05B3FF75AB416A0389.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Blueprints/Pickups/BP_Relic_Level03.uasset'
+[2026.06.25-09.32.39:354][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_01/Meshes/MI_Rock_01" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_01/Meshes/MI_Rock_01.uasset" SILENT=true
+[2026.06.25-09.32.39:355][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_01/Meshes/MI_Rock_01
+[2026.06.25-09.32.39:355][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/MI_Rock_0166233469464FFA299D760CB9CBA04A9E.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_01/Meshes/MI_Rock_01.uasset'
+[2026.06.25-09.32.39:356][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_02/Meshes/MI_Rock_02" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_02/Meshes/MI_Rock_02.uasset" SILENT=true
+[2026.06.25-09.32.39:357][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_02/Meshes/MI_Rock_02
+[2026.06.25-09.32.39:357][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/MI_Rock_02B2B165C64821FF4DF080E7A58B54649D.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_02/Meshes/MI_Rock_02.uasset'
+[2026.06.25-09.32.39:359][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_03/Meshes/MI_Rock_03" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_03/Meshes/MI_Rock_03.uasset" SILENT=true
+[2026.06.25-09.32.39:359][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_03/Meshes/MI_Rock_03
+[2026.06.25-09.32.39:359][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/MI_Rock_03E51614904051E1685BDE2985E8A0BD0A.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_03/Meshes/MI_Rock_03.uasset'
+[2026.06.25-09.32.39:361][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_04/Meshes/MI_Rock_04" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_04/Meshes/MI_Rock_04.uasset" SILENT=true
+[2026.06.25-09.32.39:362][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_04/Meshes/MI_Rock_04
+[2026.06.25-09.32.39:362][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/MI_Rock_0486C31DFC496C38E22C3098B1AE10C6C1.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_04/Meshes/MI_Rock_04.uasset'
+[2026.06.25-09.32.39:364][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_05/Meshes/MI_Rock_05" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_05/Meshes/MI_Rock_05.uasset" SILENT=true
+[2026.06.25-09.32.39:365][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_05/Meshes/MI_Rock_05
+[2026.06.25-09.32.39:365][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/MI_Rock_05296CF6F848209B9672E87688D81F92D1.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_05/Meshes/MI_Rock_05.uasset'
+[2026.06.25-09.32.39:367][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_06/Meshes/MI_Rock_06" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_06/Meshes/MI_Rock_06.uasset" SILENT=true
+[2026.06.25-09.32.39:367][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_06/Meshes/MI_Rock_06
+[2026.06.25-09.32.39:367][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/MI_Rock_068A9B941D44FCD7089922419A4591787D.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_06/Meshes/MI_Rock_06.uasset'
+[2026.06.25-09.32.39:369][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_07/Meshes/MI_Rock_07" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_07/Meshes/MI_Rock_07.uasset" SILENT=true
+[2026.06.25-09.32.39:369][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_07/Meshes/MI_Rock_07
+[2026.06.25-09.32.39:369][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/MI_Rock_07075C6178413E00A4C1AD2090BE597BE7.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_07/Meshes/MI_Rock_07.uasset'
+[2026.06.25-09.32.39:371][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sky_100_2k" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/sky_100_2k.uasset" SILENT=true
+[2026.06.25-09.32.39:413][306]LogSavePackage: Moving output files for package: /Game/sky_100_2k
+[2026.06.25-09.32.39:413][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/sky_100_2k0A076ED94A1319E564089AB14211A54C.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/sky_100_2k.uasset'
+[2026.06.25-09.32.39:414][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_01/Meshes/SM_Rock_01" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_01/Meshes/SM_Rock_01.uasset" SILENT=true
+[2026.06.25-09.32.39:421][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_01/Meshes/SM_Rock_01
+[2026.06.25-09.32.39:421][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/SM_Rock_016EEBB0A644243E62F067F9889FF6BC26.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_01/Meshes/SM_Rock_01.uasset'
+[2026.06.25-09.32.39:423][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_02/Meshes/SM_Rock_02" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_02/Meshes/SM_Rock_02.uasset" SILENT=true
+[2026.06.25-09.32.39:431][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_02/Meshes/SM_Rock_02
+[2026.06.25-09.32.39:432][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/SM_Rock_024D9DFFE442CCBEA21738419235940FA8.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_02/Meshes/SM_Rock_02.uasset'
+[2026.06.25-09.32.39:433][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_03/Meshes/SM_Rock_03" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_03/Meshes/SM_Rock_03.uasset" SILENT=true
+[2026.06.25-09.32.39:439][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_03/Meshes/SM_Rock_03
+[2026.06.25-09.32.39:439][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/SM_Rock_033D1A71354757A515BFAB0BB871F54C80.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_03/Meshes/SM_Rock_03.uasset'
+[2026.06.25-09.32.39:440][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_04/Meshes/SM_Rock_04" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_04/Meshes/SM_Rock_04.uasset" SILENT=true
+[2026.06.25-09.32.39:451][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_04/Meshes/SM_Rock_04
+[2026.06.25-09.32.39:451][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/SM_Rock_042D2B972446F16227EACC76943776E011.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_04/Meshes/SM_Rock_04.uasset'
+[2026.06.25-09.32.39:452][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_05/Meshes/SM_Rock_05" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_05/Meshes/SM_Rock_05.uasset" SILENT=true
+[2026.06.25-09.32.39:464][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_05/Meshes/SM_Rock_05
+[2026.06.25-09.32.39:464][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/SM_Rock_05055016E847449EEF6948579B061594BC.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_05/Meshes/SM_Rock_05.uasset'
+[2026.06.25-09.32.39:465][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_06/Meshes/SM_Rock_06" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_06/Meshes/SM_Rock_06.uasset" SILENT=true
+[2026.06.25-09.32.39:471][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_06/Meshes/SM_Rock_06
+[2026.06.25-09.32.39:471][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/SM_Rock_06C609B25E4A1F2CF41F8C86980A10AFEC.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_06/Meshes/SM_Rock_06.uasset'
+[2026.06.25-09.32.39:472][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_07/Meshes/SM_Rock_07" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_07/Meshes/SM_Rock_07.uasset" SILENT=true
+[2026.06.25-09.32.39:481][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_07/Meshes/SM_Rock_07
+[2026.06.25-09.32.39:481][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/SM_Rock_07AA42E4274248669F5DF71FB8E0611E78.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_07/Meshes/SM_Rock_07.uasset'
+[2026.06.25-09.32.39:483][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_01/Textures/T_Rock_01_A" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_01/Textures/T_Rock_01_A.uasset" SILENT=true
+[2026.06.25-09.32.39:812][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_01/Textures/T_Rock_01_A
+[2026.06.25-09.32.39:812][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_01_A95D3882D40B0183BBD2EBB90051C4083.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_01/Textures/T_Rock_01_A.uasset'
+[2026.06.25-09.32.39:813][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_01/Textures/T_Rock_01_N" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_01/Textures/T_Rock_01_N.uasset" SILENT=true
+[2026.06.25-09.32.40:149][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_01/Textures/T_Rock_01_N
+[2026.06.25-09.32.40:149][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_01_N6934C4944ECFA5AFBEB472A201FE3A82.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_01/Textures/T_Rock_01_N.uasset'
+[2026.06.25-09.32.40:150][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_01/Textures/T_Rock_01_ORM" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_01/Textures/T_Rock_01_ORM.uasset" SILENT=true
+[2026.06.25-09.32.40:475][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_01/Textures/T_Rock_01_ORM
+[2026.06.25-09.32.40:475][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_01_ORM15FC6C444C1D9BBAF4245E9F87093E50.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_01/Textures/T_Rock_01_ORM.uasset'
+[2026.06.25-09.32.40:476][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_02/Textures/T_Rock_02_A" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_02/Textures/T_Rock_02_A.uasset" SILENT=true
+[2026.06.25-09.32.40:818][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_02/Textures/T_Rock_02_A
+[2026.06.25-09.32.40:818][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_02_A70ECD57843DD65AD87C0AD811B1249EA.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_02/Textures/T_Rock_02_A.uasset'
+[2026.06.25-09.32.40:819][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_02/Textures/T_Rock_02_N" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_02/Textures/T_Rock_02_N.uasset" SILENT=true
+[2026.06.25-09.32.41:166][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_02/Textures/T_Rock_02_N
+[2026.06.25-09.32.41:166][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_02_NFC566B5747015834443ABAACADA3DBDB.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_02/Textures/T_Rock_02_N.uasset'
+[2026.06.25-09.32.41:167][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_02/Textures/T_Rock_02_ORM" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_02/Textures/T_Rock_02_ORM.uasset" SILENT=true
+[2026.06.25-09.32.41:503][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_02/Textures/T_Rock_02_ORM
+[2026.06.25-09.32.41:503][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_02_ORME4809C354DBE92F19A4104936F14938C.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_02/Textures/T_Rock_02_ORM.uasset'
+[2026.06.25-09.32.41:504][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_03/Textures/T_Rock_03_A" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_03/Textures/T_Rock_03_A.uasset" SILENT=true
+[2026.06.25-09.32.41:827][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_03/Textures/T_Rock_03_A
+[2026.06.25-09.32.41:827][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_03_A046E6E6440757F3B50A5728DE86E56B5.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_03/Textures/T_Rock_03_A.uasset'
+[2026.06.25-09.32.41:828][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_03/Textures/T_Rock_03_N" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_03/Textures/T_Rock_03_N.uasset" SILENT=true
+[2026.06.25-09.32.42:172][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_03/Textures/T_Rock_03_N
+[2026.06.25-09.32.42:172][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_03_N7CE36209465BEA40552BB6AE3A13AC95.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_03/Textures/T_Rock_03_N.uasset'
+[2026.06.25-09.32.42:173][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_03/Textures/T_Rock_03_ORM" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_03/Textures/T_Rock_03_ORM.uasset" SILENT=true
+[2026.06.25-09.32.42:509][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_03/Textures/T_Rock_03_ORM
+[2026.06.25-09.32.42:509][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_03_ORMF527E7764BF3E7F8C497948AA7DC7962.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_03/Textures/T_Rock_03_ORM.uasset'
+[2026.06.25-09.32.42:511][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_04/Textures/T_Rock_04_A" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_04/Textures/T_Rock_04_A.uasset" SILENT=true
+[2026.06.25-09.32.42:839][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_04/Textures/T_Rock_04_A
+[2026.06.25-09.32.42:839][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_04_A0ED9E0FF4CE35CB796367E85F827420F.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_04/Textures/T_Rock_04_A.uasset'
+[2026.06.25-09.32.42:841][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_04/Textures/T_Rock_04_N" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_04/Textures/T_Rock_04_N.uasset" SILENT=true
+[2026.06.25-09.32.43:186][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_04/Textures/T_Rock_04_N
+[2026.06.25-09.32.43:186][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_04_NF2DE351D431E34A588DCEEBD19C57F34.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_04/Textures/T_Rock_04_N.uasset'
+[2026.06.25-09.32.43:188][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_04/Textures/T_Rock_04_ORM" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_04/Textures/T_Rock_04_ORM.uasset" SILENT=true
+[2026.06.25-09.32.43:526][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_04/Textures/T_Rock_04_ORM
+[2026.06.25-09.32.43:526][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_04_ORM8806A6F14C31ECF91DFB4BBC4D0C55C0.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_04/Textures/T_Rock_04_ORM.uasset'
+[2026.06.25-09.32.43:527][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_05/Textures/T_Rock_05_A" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_05/Textures/T_Rock_05_A.uasset" SILENT=true
+[2026.06.25-09.32.43:847][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_05/Textures/T_Rock_05_A
+[2026.06.25-09.32.43:847][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_05_AB9DE8F5A407989A519949EBDDDC41B6A.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_05/Textures/T_Rock_05_A.uasset'
+[2026.06.25-09.32.43:849][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_05/Textures/T_Rock_05_N" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_05/Textures/T_Rock_05_N.uasset" SILENT=true
+[2026.06.25-09.32.44:198][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_05/Textures/T_Rock_05_N
+[2026.06.25-09.32.44:199][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_05_NBBAAEBDA4B1262EC9BE43681C6690E3C.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_05/Textures/T_Rock_05_N.uasset'
+[2026.06.25-09.32.44:200][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_05/Textures/T_Rock_05_ORM" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_05/Textures/T_Rock_05_ORM.uasset" SILENT=true
+[2026.06.25-09.32.44:538][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_05/Textures/T_Rock_05_ORM
+[2026.06.25-09.32.44:538][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_05_ORMD849FF2C4A763D3324A58092DE82EE8E.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_05/Textures/T_Rock_05_ORM.uasset'
+[2026.06.25-09.32.44:541][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_06/Textures/T_Rock_06_A" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_06/Textures/T_Rock_06_A.uasset" SILENT=true
+[2026.06.25-09.32.44:873][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_06/Textures/T_Rock_06_A
+[2026.06.25-09.32.44:873][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_06_A2CC432A44F8E47C7C0D7BCA4BA1E1869.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_06/Textures/T_Rock_06_A.uasset'
+[2026.06.25-09.32.44:876][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_06/Textures/T_Rock_06_N" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_06/Textures/T_Rock_06_N.uasset" SILENT=true
+[2026.06.25-09.32.45:244][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_06/Textures/T_Rock_06_N
+[2026.06.25-09.32.45:244][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_06_N9AF6E99047BC36E5CAE9F88D5ED9EE5F.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_06/Textures/T_Rock_06_N.uasset'
+[2026.06.25-09.32.45:245][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_06/Textures/T_Rock_06_ORM" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_06/Textures/T_Rock_06_ORM.uasset" SILENT=true
+[2026.06.25-09.32.45:601][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_06/Textures/T_Rock_06_ORM
+[2026.06.25-09.32.45:601][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_06_ORMF69CEC4F47278937563013A33C70A03D.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_06/Textures/T_Rock_06_ORM.uasset'
+[2026.06.25-09.32.45:603][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_07/Textures/T_Rock_07_A" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_07/Textures/T_Rock_07_A.uasset" SILENT=true
+[2026.06.25-09.32.45:932][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_07/Textures/T_Rock_07_A
+[2026.06.25-09.32.45:932][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_07_A56241C7846028F2D2A9D2EB44FE81CAD.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_07/Textures/T_Rock_07_A.uasset'
+[2026.06.25-09.32.45:935][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_07/Textures/T_Rock_07_N" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_07/Textures/T_Rock_07_N.uasset" SILENT=true
+[2026.06.25-09.32.46:305][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_07/Textures/T_Rock_07_N
+[2026.06.25-09.32.46:305][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_07_NC9AB9C4547E5C809D9066A90C6D07C3D.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_07/Textures/T_Rock_07_N.uasset'
+[2026.06.25-09.32.46:306][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rocks/Rock_07/Textures/T_Rock_07_ORM" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_07/Textures/T_Rock_07_ORM.uasset" SILENT=true
+[2026.06.25-09.32.46:664][306]LogSavePackage: Moving output files for package: /Game/Rocks/Rock_07/Textures/T_Rock_07_ORM
+[2026.06.25-09.32.46:664][306]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/T_Rock_07_ORM673356E040BE772BD0340CA2607B450A.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/Rocks/Rock_07/Textures/T_Rock_07_ORM.uasset'
+[2026.06.25-09.32.46:689][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.38 sec (total: 8.64 sec)
+[2026.06.25-09.32.46:727][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-09.32.46:730][306]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Level_02.Level_02
+[2026.06.25-09.32.46:730][306]Cmd: MAP LOAD FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.06.25-09.32.46:730][306]LightingResults: New page: Lighting Build
+[2026.06.25-09.32.46:734][306]LoadErrors: New page: Loading map: Level_02.umap
+[2026.06.25-09.32.46:736][306]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-09.32.46:736][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-09.32.46:739][306]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2026.06.25-09.32.46:739][306]MapCheck: New page: Map Check
+[2026.06.25-09.32.46:739][306]LightingResults: New page: Lighting Build
+[2026.06.25-09.32.46:754][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.25-09.32.46:758][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.06.25-09.32.46:760][306]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-09.32.46:760][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-09.32.46:776][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.06.25-09.32.46:792][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.25-09.32.46:796][306]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2026.06.25-09.32.46:796][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-09.32.46:796][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-09.32.46:796][306]LogAIModule: Creating AISystem for world Level_02
+[2026.06.25-09.32.46:818][306]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.25-09.32.46:834][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.06.25-09.32.46:838][306]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.25-09.32.46:838][306]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,096ms to complete.
+[2026.06.25-09.32.46:838][306]LogFileHelpers: Loading map 'Level_02' took 0.108
+[2026.06.25-09.32.46:852][306]AssetCheck: New page: Asset Save: multiple assets
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Rocks/Rock_06/Meshes/SM_Rock_06.SM_Rock_06
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Pickups/BP_Relic_Level03.BP_Relic_Level03
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Rocks/Rock_06/Meshes/MI_Rock_06.MI_Rock_06
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Pickups/BP_Relic_Level01.BP_Relic_Level01
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/sky_100_2k.sky_100_2k
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Pickups/BP_Relic_Level02.BP_Relic_Level02
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Rocks/Rock_07/Meshes/MI_Rock_07.MI_Rock_07
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Rocks/Rock_07/Meshes/SM_Rock_07.SM_Rock_07
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_01/Textures/T_Rock_01_A.T_Rock_01_A
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Rocks/Rock_01/Meshes/MI_Rock_01.MI_Rock_01
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Rocks/Rock_01/Meshes/SM_Rock_01.SM_Rock_01
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_01/Textures/T_Rock_01_N.T_Rock_01_N
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Rocks/Rock_05/Meshes/SM_Rock_05.SM_Rock_05
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Rocks/Rock_05/Meshes/MI_Rock_05.MI_Rock_05
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_01/Textures/T_Rock_01_ORM.T_Rock_01_ORM
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Rocks/Rock_04/Meshes/SM_Rock_04.SM_Rock_04
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Rocks/Rock_04/Meshes/MI_Rock_04.MI_Rock_04
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_07/Textures/T_Rock_07_A.T_Rock_07_A
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Rocks/Rock_03/Meshes/SM_Rock_03.SM_Rock_03
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Rocks/Rock_03/Meshes/MI_Rock_03.MI_Rock_03
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_07/Textures/T_Rock_07_N.T_Rock_07_N
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Rocks/Rock_02/Meshes/SM_Rock_02.SM_Rock_02
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Rocks/Rock_02/Meshes/MI_Rock_02.MI_Rock_02
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_07/Textures/T_Rock_07_ORM.T_Rock_07_ORM
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_06/Textures/T_Rock_06_A.T_Rock_06_A
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_06/Textures/T_Rock_06_N.T_Rock_06_N
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_06/Textures/T_Rock_06_ORM.T_Rock_06_ORM
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_05/Textures/T_Rock_05_A.T_Rock_05_A
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_05/Textures/T_Rock_05_N.T_Rock_05_N
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_05/Textures/T_Rock_05_ORM.T_Rock_05_ORM
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_04/Textures/T_Rock_04_A.T_Rock_04_A
+[2026.06.25-09.32.46:852][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_04/Textures/T_Rock_04_N.T_Rock_04_N
+[2026.06.25-09.32.46:853][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_04/Textures/T_Rock_04_ORM.T_Rock_04_ORM
+[2026.06.25-09.32.46:853][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_03/Textures/T_Rock_03_A.T_Rock_03_A
+[2026.06.25-09.32.46:853][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_03/Textures/T_Rock_03_N.T_Rock_03_N
+[2026.06.25-09.32.46:853][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_03/Textures/T_Rock_03_ORM.T_Rock_03_ORM
+[2026.06.25-09.32.46:853][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_02/Textures/T_Rock_02_A.T_Rock_02_A
+[2026.06.25-09.32.46:853][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_02/Textures/T_Rock_02_N.T_Rock_02_N
+[2026.06.25-09.32.46:853][306]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Rocks/Rock_02/Textures/T_Rock_02_ORM.T_Rock_02_ORM
+[2026.06.25-09.32.46:861][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:861][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:862][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:862][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:862][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:862][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:863][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:863][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:863][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:864][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:864][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:864][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:864][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:864][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:864][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:865][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.32.46:865][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:877][252]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.25-09.33.02:882][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.25-09.33.02:883][252]PIE: New page: PIE session: Level_02 (25 Ιουν 2026, 3:33:02 μ.μ.)
+[2026.06.25-09.33.02:918][252]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_02
+[2026.06.25-09.33.02:920][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002674s)
+[2026.06.25-09.33.02:920][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_02.Level_02 to /Game/ThirdPerson/Maps/UEDPIE_0_Level_02.Level_02 (0.002726s)
+[2026.06.25-09.33.02:920][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-09.33.02:920][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-09.33.02:921][252]LogAIModule: Creating AISystem for world Level_02
+[2026.06.25-09.33.02:921][252]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2026.06.25-09.33.02:939][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.06.25-09.33.02:941][252]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.06.25-09.33.02:941][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.25-09.33.02:941][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.25-09.33.02:941][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.25-09.33.02:941][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.25-09.33.02:941][252]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.25-09.33.02:941][252]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.06.25-09.33.02:941][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.25-09.33.02:941][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.25-09.33.02:941][252]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.25-09.33.02:941][252]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.25-09.33.02:941][252]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.25-09.33.02:943][252]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.25-09.33.02:963][252]LogAudioMixer: Display: Using Audio Hardware Device (ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.06.25-09.33.02:964][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.25-09.33.02:964][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.25-09.33.02:964][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.25-09.33.02:964][252]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.06.25-09.33.02:964][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.06.25-09.33.02:966][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.06.25-09.33.02:966][252]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.06.25-09.33.02:966][252]LogInit: FAudioDevice initialized with ID 21.
+[2026.06.25-09.33.02:966][252]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level_02'.
+[2026.06.25-09.33.02:966][252]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.06.25-09.33.02:968][252]LogLoad: Game class is 'BP_SkyRelicGameMode_C'
+[2026.06.25-09.33.02:969][252]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2026.06.25-12.33.02
+[2026.06.25-09.33.02:969][252]LogWorld: Bringing up level for play took: 0.000994
+[2026.06.25-09.33.02:971][252]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.06.25-09.33.02:971][252]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.06.25-09.33.02:974][252]PIE: Server logged in
+[2026.06.25-09.33.02:975][252]PIE: Play in editor total start time 0,093 seconds.
+[2026.06.25-09.33.02:989][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:989][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:990][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:990][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:990][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:990][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:991][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:991][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:991][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:992][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:992][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:992][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:992][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:993][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:993][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:993][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.02:994][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:028][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.25-09.33.10:029][500]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_02
+[2026.06.25-09.33.10:029][500]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-09.33.10:029][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-09.33.10:033][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.25-09.33.10:035][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-09.33.10:051][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.25-09.33.10:051][500]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.06.25-09.33.10:051][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.06.25-09.33.10:053][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.06.25-09.33.10:059][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.06.25-09.33.10:069][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:069][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:069][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:070][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:070][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:070][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:070][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:070][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:070][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:071][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:071][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:072][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:072][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:072][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:072][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:072][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:072][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.33.10:086][502]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.06.25-09.52.13:484][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:485][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:485][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:485][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:486][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:486][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:486][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:487][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:487][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:487][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:488][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:488][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:488][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:488][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:488][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:489][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:489][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:652][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:652][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:652][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:653][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:900][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:900][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:900][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.13:901][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:000][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:000][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:001][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:001][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:001][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:001][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:002][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:002][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:002][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:002][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:002][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:003][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:004][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:004][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:004][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:004][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.16:005][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.30:990][ 34]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.25-09.52.30:995][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.25-09.52.30:995][ 34]PIE: New page: PIE session: Level_02 (25 Ιουν 2026, 3:52:30 μ.μ.)
+[2026.06.25-09.52.30:995][ 34]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_02
+[2026.06.25-09.52.30:998][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002316s)
+[2026.06.25-09.52.30:998][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_02.Level_02 to /Game/ThirdPerson/Maps/UEDPIE_0_Level_02.Level_02 (0.002355s)
+[2026.06.25-09.52.30:998][ 34]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-09.52.30:998][ 34]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-09.52.30:998][ 34]LogAIModule: Creating AISystem for world Level_02
+[2026.06.25-09.52.30:998][ 34]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2026.06.25-09.52.31:015][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.06.25-09.52.31:018][ 34]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.06.25-09.52.31:018][ 34]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.25-09.52.31:018][ 34]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.25-09.52.31:018][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.25-09.52.31:018][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.25-09.52.31:018][ 34]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.25-09.52.31:018][ 34]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.06.25-09.52.31:018][ 34]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.25-09.52.31:018][ 34]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.25-09.52.31:018][ 34]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.25-09.52.31:018][ 34]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.25-09.52.31:018][ 34]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.25-09.52.31:020][ 34]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.25-09.52.31:040][ 34]LogAudioMixer: Display: Using Audio Hardware Device (ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.06.25-09.52.31:040][ 34]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.25-09.52.31:040][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.25-09.52.31:040][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.25-09.52.31:041][ 34]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.06.25-09.52.31:041][ 34]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.06.25-09.52.31:043][ 34]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.06.25-09.52.31:043][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.06.25-09.52.31:043][ 34]LogInit: FAudioDevice initialized with ID 22.
+[2026.06.25-09.52.31:043][ 34]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level_02'.
+[2026.06.25-09.52.31:043][ 34]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.06.25-09.52.31:045][ 34]LogLoad: Game class is 'BP_SkyRelicGameMode_C'
+[2026.06.25-09.52.31:046][ 34]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2026.06.25-12.52.31
+[2026.06.25-09.52.31:046][ 34]LogWorld: Bringing up level for play took: 0.000980
+[2026.06.25-09.52.31:048][ 34]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.06.25-09.52.31:048][ 34]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.06.25-09.52.31:052][ 34]PIE: Server logged in
+[2026.06.25-09.52.31:052][ 34]PIE: Play in editor total start time 0,057 seconds.
+[2026.06.25-09.52.31:072][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:072][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:072][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:073][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:073][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:073][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:073][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:073][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:074][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:074][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:075][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:075][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:075][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:076][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:076][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:076][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.31:076][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.35:348][188]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.40:417][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.45:446][709]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.50:484][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.52.55:539][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:320][860]LogNet: Browse: /Game/ThirdPerson/Maps/Level_03
+[2026.06.25-09.53.06:320][860]LogLoad: LoadMap: /Game/ThirdPerson/Maps/Level_03
+[2026.06.25-09.53.06:320][860]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_02
+[2026.06.25-09.53.06:320][860]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-09.53.06:321][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-09.53.06:337][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.25-09.53.06:341][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.06.25-09.53.06:357][860]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level_03'.
+[2026.06.25-09.53.06:357][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-09.53.06:357][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-09.53.06:357][860]LogAIModule: Creating AISystem for world Level_03
+[2026.06.25-09.53.06:357][860]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2026.06.25-09.53.06:357][860]LogLoad: Game class is 'BP_SkyRelicGameMode_C'
+[2026.06.25-09.53.06:359][860]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2026.06.25-12.53.06
+[2026.06.25-09.53.06:359][860]LogWorld: Bringing up level for play took: 0.002005
+[2026.06.25-09.53.06:360][860]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.06.25-09.53.06:363][860]LogLoad: Took 0.042761 seconds to LoadMap(/Game/ThirdPerson/Maps/Level_03)
+[2026.06.25-09.53.06:367][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:367][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:367][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:368][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:368][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:368][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:368][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:369][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:369][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:369][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:370][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:370][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:370][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:370][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:371][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:371][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.06:371][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.08:662][999]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.08:663][999]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.09:668][ 60]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.09:668][ 60]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.10:677][122]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:767][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.25-09.53.11:767][189]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_03
+[2026.06.25-09.53.11:767][189]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-09.53.11:767][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-09.53.11:779][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.25-09.53.11:782][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-09.53.11:797][189]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.25-09.53.11:797][189]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.06.25-09.53.11:797][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.06.25-09.53.11:799][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.06.25-09.53.11:803][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.25-09.53.11:805][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.06.25-09.53.11:829][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:829][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:830][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:831][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:831][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:831][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:831][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:832][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:832][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:832][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:832][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:833][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:833][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:833][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:833][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:834][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:834][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-09.53.11:842][190]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.06.25-09.53.53:168][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.06.25-09.53.53:175][133]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/Level_02_Auto7
+[2026.06.25-09.53.53:175][133]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Level_02_Auto712A70D844C0007FFB16286BADEDC9C17.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Autosaves/Game/ThirdPerson/Maps/Level_02_Auto7.umap'
+[2026.06.25-09.53.53:183][133]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Level_02' took 0.032
+[2026.06.25-09.53.53:183][133]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2026.06.25-09.58.40:040][994]LogViewport: Scene viewport resized to 727x888, mode Windowed.
+[2026.06.25-09.58.40:348][995]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.25-09.58.40:349][995]LogWindowsTextInputMethodSystem: Activated input method: Ελληνικά (Ελλάδας) - (Keyboard).
+[2026.06.25-09.58.41:479][ 58]LogViewport: Scene viewport resized to 728x888, mode Windowed.
+[2026.06.25-09.58.41:513][ 58]LogViewport: Scene viewport resized to 816x888, mode Windowed.
+[2026.06.25-09.58.41:554][ 58]LogViewport: Scene viewport resized to 897x888, mode Windowed.
+[2026.06.25-09.58.41:596][ 58]LogViewport: Scene viewport resized to 964x888, mode Windowed.
+[2026.06.25-09.58.41:638][ 58]LogViewport: Scene viewport resized to 993x888, mode Windowed.
+[2026.06.25-09.58.41:680][ 58]LogViewport: Scene viewport resized to 1021x888, mode Windowed.
+[2026.06.25-09.58.41:721][ 58]LogViewport: Scene viewport resized to 1069x888, mode Windowed.
+[2026.06.25-09.58.41:763][ 58]LogViewport: Scene viewport resized to 1070x888, mode Windowed.
+[2026.06.25-09.59.09:620][ 42]LogContentBrowser: Deferred new asset file creation: NewMaterial1
+[2026.06.25-09.59.09:631][ 42]LogContentBrowser: Creating deferred item: NewMaterial1
+[2026.06.25-09.59.09:640][ 43]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial1).
+[2026.06.25-09.59.13:801][344]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.25-09.59.13:801][344]LogWindowsTextInputMethodSystem: Activated input method: Αγγλικά (ΗΠΑ) - (Keyboard).
+[2026.06.25-09.59.22:881][999]LogContentBrowser: Attempting asset rename: NewMaterial1 -> M_Sky_Level2
+[2026.06.25-09.59.22:885][999]LogContentBrowser: End creating deferred item NewMaterial1
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: ================================================
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Total job queries 392, among them cache hits 188 (47.96%)
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Tracking 201 distinct input hashes that result in 38 distinct outputs (18.91%)
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: RAM used: 4,32 MiB of 1,60 GiB budget. Usage: 0.26%
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Shaders Compiled: 169
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Jobs assigned 172, completed 169 (98.26%)
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Average time worker was idle: 230.02 s
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Time job spent in pending queue: average 0.36 s, longest 2.85 s
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 2.43 s
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Job life time (pending + execution): average 1.20 s, max 3.50
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.22 s
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Jobs were issued in 172 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Average processing rate: 7.96 jobs/sec
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Total thread time: 111,634 s
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Total thread preprocess time: 7,644 s
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Percentage time preprocessing: 6.85%
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Effective parallelization: 5.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 1.06 sec, max 1.71 sec, min 0.36 sec)
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 1.06 sec, max 1.72 sec, min 0.37 sec)
+[2026.06.25-09.59.25:041][155]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    7 times, average 1.04 sec, max 1.69 sec, min 0.35 sec)
+[2026.06.25-09.59.25:042][155]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 1.04 sec, max 1.68 sec, min 0.35 sec)
+[2026.06.25-09.59.25:042][155]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 1.03 sec, max 1.67 sec, min 0.35 sec)
+[2026.06.25-09.59.25:042][155]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.25-09.59.25:042][155]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.73% of total time (compiled   15 times, average 0.65 sec, max 1.87 sec, min 0.27 sec)
+[2026.06.25-09.59.25:042][155]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.10% of total time (compiled   16 times, average 0.56 sec, max 1.69 sec, min 0.21 sec)
+[2026.06.25-09.59.25:042][155]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.29% of total time (compiled   15 times, average 0.54 sec, max 1.12 sec, min 0.26 sec)
+[2026.06.25-09.59.25:042][155]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.67% of total time (compiled    7 times, average 1.06 sec, max 1.71 sec, min 0.36 sec)
+[2026.06.25-09.59.25:042][155]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.66% of total time (compiled    7 times, average 1.06 sec, max 1.72 sec, min 0.37 sec)
+[2026.06.25-09.59.25:042][155]LogShaderCompilers: Display: ================================================
+[2026.06.25-09.59.35:590][900]LogContentBrowser: Deferred new asset file creation: sky_100_2k1
+[2026.06.25-09.59.35:626][900]LogContentBrowser: Creating deferred item: sky_100_2k1
+[2026.06.25-09.59.35:635][901]LogContentBrowser: Renaming the item being created (Deferred Item: sky_100_2k1).
+[2026.06.25-09.59.41:938][360]LogContentBrowser: Attempting asset rename: sky_100_2k1 -> T_Sky_Level2
+[2026.06.25-09.59.41:956][360]LogContentBrowser: End creating deferred item sky_100_2k1
+[2026.06.25-09.59.44:972][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.25-09.59.45:024][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Level_02" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.06.25-09.59.45:042][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.06.25-09.59.45:049][578]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_02
+[2026.06.25-09.59.45:049][578]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Level_02825C1A4049A979C86CD85B89EBADCCF9.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap'
+[2026.06.25-09.59.45:055][578]LogFileHelpers: Saving map 'Level_02' took 0.031
+[2026.06.25-09.59.45:062][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 8.73 sec)
+[2026.06.25-09.59.45:066][578]AssetCheck: New page: Asset Save: Level_02
+[2026.06.25-09.59.45:066][578]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_02.Level_02
+[2026.06.25-09.59.48:058][789]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/M_Sky_Level2.M_Sky_Level2
+[2026.06.25-09.59.48:061][789]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-09.59.48:061][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-09.59.48:154][789]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.25-09.59.48:154][789]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-09.59.48:154][789]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-09.59.48:154][789]MaterialEditorStats: Shader Count: 0
+[2026.06.25-09.59.48:161][789]LogViewport: Scene viewport resized to 333x405, mode Windowed.
+[2026.06.25-09.59.48:208][790]LogViewport: Scene viewport resized to 333x398, mode Windowed.
+[2026.06.25-09.59.48:699][818]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-09.59.48:699][818]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-09.59.48:699][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-09.59.48:699][818]MaterialEditorStats: Shader Count: 2
+[2026.06.25-09.59.48:808][824]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2026.06.25-09.59.48:808][824]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2026.06.25-09.59.48:808][824]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-09.59.48:808][824]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-09.59.48:808][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-09.59.48:808][824]MaterialEditorStats: Shader Count: 6
+[2026.06.25-09.59.49:717][871]LogViewport: Scene viewport resized to 332x409, mode Windowed.
+[2026.06.25-09.59.49:727][872]LogViewport: Scene viewport resized to 313x441, mode Windowed.
+[2026.06.25-09.59.50:244][918]LogSlate: Window 'M_Sky_Level2' being destroyed
+[2026.06.25-09.59.50:250][918]LogViewport: Scene viewport resized to 313x468, mode Windowed.
+[2026.06.25-09.59.50:263][919]LogViewport: Scene viewport resized to 313x466, mode Windowed.
+[2026.06.25-09.59.50:277][920]LogViewport: Scene viewport resized to 313x463, mode Windowed.
+[2026.06.25-09.59.50:291][921]LogViewport: Scene viewport resized to 313x461, mode Windowed.
+[2026.06.25-09.59.50:305][922]LogViewport: Scene viewport resized to 313x457, mode Windowed.
+[2026.06.25-09.59.50:319][923]LogViewport: Scene viewport resized to 313x455, mode Windowed.
+[2026.06.25-09.59.50:333][924]LogViewport: Scene viewport resized to 313x452, mode Windowed.
+[2026.06.25-09.59.50:346][925]LogViewport: Scene viewport resized to 313x449, mode Windowed.
+[2026.06.25-09.59.50:361][926]LogViewport: Scene viewport resized to 313x447, mode Windowed.
+[2026.06.25-09.59.50:373][927]LogViewport: Scene viewport resized to 313x444, mode Windowed.
+[2026.06.25-09.59.50:386][928]LogViewport: Scene viewport resized to 313x442, mode Windowed.
+[2026.06.25-09.59.50:398][929]LogViewport: Scene viewport resized to 313x441, mode Windowed.
+[2026.06.25-10.00.03:657][516]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/T_Sky_Level2.T_Sky_Level2
+[2026.06.25-10.00.03:691][516]LogViewport: Scene viewport resized to 1031x926, mode Windowed.
+[2026.06.25-10.00.03:712][517]LogViewport: Scene viewport resized to 1031x918, mode Windowed.
+[2026.06.25-10.00.03:725][518]LogViewport: Scene viewport resized to 1031x914, mode Windowed.
+[2026.06.25-10.00.03:736][519]LogViewport: Scene viewport resized to 1031x909, mode Windowed.
+[2026.06.25-10.00.03:746][520]LogViewport: Scene viewport resized to 1031x905, mode Windowed.
+[2026.06.25-10.00.03:757][521]LogViewport: Scene viewport resized to 1031x901, mode Windowed.
+[2026.06.25-10.00.03:767][522]LogViewport: Scene viewport resized to 1031x897, mode Windowed.
+[2026.06.25-10.00.03:778][523]LogViewport: Scene viewport resized to 1031x893, mode Windowed.
+[2026.06.25-10.00.03:789][524]LogViewport: Scene viewport resized to 1031x889, mode Windowed.
+[2026.06.25-10.00.03:800][525]LogViewport: Scene viewport resized to 1031x885, mode Windowed.
+[2026.06.25-10.00.03:809][526]LogViewport: Scene viewport resized to 1031x884, mode Windowed.
+[2026.06.25-10.01.03:510][941]LogInterchangeEngine: [Pending] Importing
+[2026.06.25-10.01.03:510][941]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Aorus/Downloadssky_81_2k.png]
+[2026.06.25-10.01.03:541][942]LogTexture: Display: Building textures: /Game/sky_81_2k.sky_81_2k (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 191.979147 MB), EncodeSpeed: Fast
+[2026.06.25-10.01.03:541][942]LogInterchangeEngine: [Success] Import Done
+[2026.06.25-10.01.03:554][942]LogInterchangeEngine: [Success] Import Done
+[2026.06.25-10.01.07:769][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.06.25-10.01.08:686][393]LogSlate: Window 'Delete Assets' being destroyed
+[2026.06.25-10.01.08:711][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.06.25-10.01.08:728][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.06.25-10.01.08:743][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.06.25-10.01.19:815][ 60]LogInterchangeEngine: [Pending] Importing
+[2026.06.25-10.01.19:815][ 60]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Aorus/Downloadssky_16_2k.png]
+[2026.06.25-10.01.19:847][ 61]LogInterchangeEngine: [Success] Import Done
+[2026.06.25-10.01.19:847][ 61]LogTexture: Display: Building textures: /Game/sky_16_2k.sky_16_2k (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 191.979147 MB), EncodeSpeed: Fast
+[2026.06.25-10.01.19:857][ 61]LogInterchangeEngine: [Success] Import Done
+[2026.06.25-10.01.44:099][894]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.25-10.01.44:099][894]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.01.44:099][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.01.44:099][894]MaterialEditorStats: Shader Count: 0
+[2026.06.25-10.01.44:679][962]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2026.06.25-10.01.44:679][962]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.01.44:679][962]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.01.44:679][962]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.01.44:679][962]MaterialEditorStats: Shader Count: 5
+[2026.06.25-10.01.44:778][974]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2026.06.25-10.01.44:778][974]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2026.06.25-10.01.44:778][974]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.01.44:778][974]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.01.44:778][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.01.44:778][974]MaterialEditorStats: Shader Count: 6
+[2026.06.25-10.01.48:947][474]LogMaterialEditor: Applying material M_Sky_Level2
+[2026.06.25-10.01.49:343][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.25-10.01.49:804][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.25-10.01.49:810][474]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.01.49:811][474]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.01.49:811][474]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.01.49:811][474]MaterialEditorStats: Shader Count: 2
+[2026.06.25-10.01.50:242][526]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2026.06.25-10.01.50:242][526]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.01.50:242][526]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.01.50:242][526]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.01.50:242][526]MaterialEditorStats: Shader Count: 5
+[2026.06.25-10.01.50:350][539]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2026.06.25-10.01.50:350][539]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2026.06.25-10.01.50:350][539]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.01.50:350][539]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.01.50:350][539]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.01.50:350][539]MaterialEditorStats: Shader Count: 6
+[2026.06.25-10.01.51:050][623]LogMaterialEditor: Saving and Compiling material M_Sky_Level2
+[2026.06.25-10.01.51:051][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.25-10.01.51:319][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Sky_Level2" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/M_Sky_Level2.uasset" SILENT=true
+[2026.06.25-10.01.51:321][623]LogSavePackage: Moving output files for package: /Game/M_Sky_Level2
+[2026.06.25-10.01.51:321][623]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/M_Sky_Level2217762974C2986F0C784878A81DFD7A3.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/M_Sky_Level2.uasset'
+[2026.06.25-10.01.51:327][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 276 ms (total: 9.01 sec)
+[2026.06.25-10.01.51:330][623]AssetCheck: New page: Asset Save: M_Sky_Level2
+[2026.06.25-10.01.51:330][623]LogContentValidation: Display: Validating /Script/Engine.Material /Game/M_Sky_Level2.M_Sky_Level2
+[2026.06.25-10.02.21:283][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.06.25-10.02.22:922][ 68]LogSlate: Window 'Save Content' being destroyed
+[2026.06.25-10.02.22:931][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.25-10.02.22:956][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sky_16_2k" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/sky_16_2k.uasset" SILENT=true
+[2026.06.25-10.02.22:994][ 68]LogSavePackage: Moving output files for package: /Game/sky_16_2k
+[2026.06.25-10.02.22:994][ 68]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/sky_16_2k29B94C6D49EF56EF8CD3C0AEF7AED560.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/sky_16_2k.uasset'
+[2026.06.25-10.02.22:997][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sky_81_2k" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/sky_81_2k.uasset" SILENT=true
+[2026.06.25-10.02.23:035][ 68]LogSavePackage: Moving output files for package: /Game/sky_81_2k
+[2026.06.25-10.02.23:035][ 68]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/sky_81_2kDD52981243D314BFF63AFBA74543540A.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/sky_81_2k.uasset'
+[2026.06.25-10.02.23:042][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 9.12 sec)
+[2026.06.25-10.02.23:103][ 68]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.02.23:105][ 68]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2026.06.25-10.02.23:105][ 68]Cmd: MAP LOAD FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.06.25-10.02.23:105][ 68]LightingResults: New page: Lighting Build
+[2026.06.25-10.02.23:105][ 68]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2026.06.25-10.02.23:107][ 68]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.02.23:107][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.02.23:107][ 68]MapCheck: New page: Map Check
+[2026.06.25-10.02.23:107][ 68]LightingResults: New page: Lighting Build
+[2026.06.25-10.02.23:122][ 68]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.25-10.02.23:124][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.06.25-10.02.23:126][ 68]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.02.23:126][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.02.23:143][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.06.25-10.02.23:159][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.06.25-10.02.23:165][ 68]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2026.06.25-10.02.23:165][ 68]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.02.23:165][ 68]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-10.02.23:165][ 68]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2026.06.25-10.02.23:166][ 68]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2026.06.25-10.02.23:166][ 68]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.25-10.02.23:166][ 68]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2026.06.25-10.02.23:226][ 68]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2026.06.25-10.02.23:226][ 68]LogWorldPartition: Display: WorldPartition initialize took 60 ms (total: 1.01 sec)
+[2026.06.25-10.02.23:247][ 68]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.25-10.02.23:265][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.25-10.02.23:270][ 68]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.25-10.02.23:270][ 68]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,231ms to complete.
+[2026.06.25-10.02.23:270][ 68]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.166
+[2026.06.25-10.02.23:281][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2026.06.25-10.02.23:281][ 68]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/sky_81_2k.sky_81_2k
+[2026.06.25-10.02.23:281][ 68]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/sky_16_2k.sky_16_2k
+[2026.06.25-10.02.23:291][ 68]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.27:233][232]Cmd: EDIT COPY
+[2026.06.25-10.02.30:136][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.06.25-10.02.30:174][408]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.02.30:178][408]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Level_02.Level_02
+[2026.06.25-10.02.30:178][408]Cmd: MAP LOAD FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.06.25-10.02.30:178][408]LightingResults: New page: Lighting Build
+[2026.06.25-10.02.30:178][408]LoadErrors: New page: Loading map: Level_02.umap
+[2026.06.25-10.02.30:180][408]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.02.30:180][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.02.30:183][408]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2026.06.25-10.02.30:184][408]MapCheck: New page: Map Check
+[2026.06.25-10.02.30:184][408]LightingResults: New page: Lighting Build
+[2026.06.25-10.02.30:199][408]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.25-10.02.30:201][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.06.25-10.02.30:203][408]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.02.30:203][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.02.30:219][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.25-10.02.30:235][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.06.25-10.02.30:238][408]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2026.06.25-10.02.30:238][408]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.02.30:238][408]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-10.02.30:239][408]LogAIModule: Creating AISystem for world Level_02
+[2026.06.25-10.02.30:257][408]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.25-10.02.30:275][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.25-10.02.30:278][408]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.25-10.02.30:279][408]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,109ms to complete.
+[2026.06.25-10.02.30:279][408]LogFileHelpers: Loading map 'Level_02' took 0.100
+[2026.06.25-10.02.30:300][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:300][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:300][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:300][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:300][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:302][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:302][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:302][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:303][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:303][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:303][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:304][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:304][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:304][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:304][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:305][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.30:305][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.31:989][493]LogEditorViewport: Clicking Background
+[2026.06.25-10.02.33:370][595]Cmd: EDIT PASTE
+[2026.06.25-10.02.33:410][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:410][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:410][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:411][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:412][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:412][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:412][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:413][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:413][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:413][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:414][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:414][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:414][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:415][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:415][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:415][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.02.33:416][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.01:972][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.25-10.03.02:015][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Level_02" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.06.25-10.03.02:032][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.06.25-10.03.02:039][ 23]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_02
+[2026.06.25-10.03.02:040][ 23]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Level_02C91AC65349C8C13FF3E2A49B501A690B.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap'
+[2026.06.25-10.03.02:045][ 23]LogFileHelpers: Saving map 'Level_02' took 0.030
+[2026.06.25-10.03.02:051][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 9.20 sec)
+[2026.06.25-10.03.02:055][ 23]AssetCheck: New page: Asset Save: Level_02
+[2026.06.25-10.03.02:055][ 23]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_02.Level_02
+[2026.06.25-10.03.09:109][684]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.25-10.03.09:115][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.25-10.03.09:115][684]PIE: New page: PIE session: Level_02 (25 Ιουν 2026, 4:03:09 μ.μ.)
+[2026.06.25-10.03.09:115][684]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_02
+[2026.06.25-10.03.09:117][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002068s)
+[2026.06.25-10.03.09:117][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_02.Level_02 to /Game/ThirdPerson/Maps/UEDPIE_0_Level_02.Level_02 (0.002106s)
+[2026.06.25-10.03.09:117][684]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.03.09:117][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-10.03.09:117][684]LogAIModule: Creating AISystem for world Level_02
+[2026.06.25-10.03.09:118][684]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2026.06.25-10.03.09:134][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.25-10.03.09:136][684]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.06.25-10.03.09:136][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.25-10.03.09:136][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.25-10.03.09:136][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.25-10.03.09:136][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.25-10.03.09:136][684]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.25-10.03.09:136][684]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.06.25-10.03.09:136][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.25-10.03.09:136][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.25-10.03.09:136][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.25-10.03.09:136][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.25-10.03.09:136][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.25-10.03.09:138][684]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.25-10.03.09:157][684]LogAudioMixer: Display: Using Audio Hardware Device (ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.06.25-10.03.09:158][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.25-10.03.09:158][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.25-10.03.09:158][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.25-10.03.09:158][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.06.25-10.03.09:158][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.06.25-10.03.09:160][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.06.25-10.03.09:160][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.06.25-10.03.09:160][684]LogInit: FAudioDevice initialized with ID 23.
+[2026.06.25-10.03.09:160][684]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level_02'.
+[2026.06.25-10.03.09:160][684]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.06.25-10.03.09:162][684]LogLoad: Game class is 'BP_SkyRelicGameMode_C'
+[2026.06.25-10.03.09:163][684]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2026.06.25-13.03.09
+[2026.06.25-10.03.09:164][684]LogWorld: Bringing up level for play took: 0.001159
+[2026.06.25-10.03.09:165][684]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.06.25-10.03.09:166][684]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.06.25-10.03.09:169][684]PIE: Server logged in
+[2026.06.25-10.03.09:170][684]PIE: Play in editor total start time 0,055 seconds.
+[2026.06.25-10.03.09:182][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:182][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:182][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:182][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:183][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:184][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:184][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:184][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:184][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:185][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:185][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:185][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:186][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:186][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:186][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:186][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.09:187][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.14:156][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.19:207][ 60]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:242][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:635][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.25-10.03.26:635][501]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_02
+[2026.06.25-10.03.26:635][501]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.03.26:635][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.03.26:644][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.25-10.03.26:646][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.03.26:663][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.25-10.03.26:663][501]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.06.25-10.03.26:663][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.06.25-10.03.26:665][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.06.25-10.03.26:671][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.25-10.03.26:783][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:784][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:784][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:784][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:785][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:785][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:785][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:785][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:786][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:786][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:786][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:786][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:787][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:787][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:787][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:788][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:788][501]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.26:800][502]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.06.25-10.03.53:945][470]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.25-10.03.53:946][470]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.03.53:946][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.03.53:946][470]MaterialEditorStats: Shader Count: 0
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: ================================================
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: Total job queries 445, among them cache hits 209 (46.97%)
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: Tracking 230 distinct input hashes that result in 38 distinct outputs (16.52%)
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: RAM used: 4,88 MiB of 1,60 GiB budget. Usage: 0.30%
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: Shaders Compiled: 198
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: Jobs assigned 204, completed 198 (97.06%)
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: Average time worker was idle: 277.48 s
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: Time job spent in pending queue: average 0.31 s, longest 2.85 s
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 2.43 s
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 3.50
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.54 s
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: Jobs were issued in 204 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.06.25-10.03.54:322][515]LogShaderCompilers: Display: Average processing rate: 8.07 jobs/sec
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display: Total thread time: 119,646 s
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display: Total thread preprocess time: 8,962 s
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display: Percentage time preprocessing: 7.49%
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display: Effective parallelization: 4.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 1.06 sec, max 1.71 sec, min 0.36 sec)
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 1.06 sec, max 1.72 sec, min 0.37 sec)
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    7 times, average 1.04 sec, max 1.69 sec, min 0.35 sec)
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 1.04 sec, max 1.68 sec, min 0.35 sec)
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 1.03 sec, max 1.67 sec, min 0.35 sec)
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.15% of total time (compiled   20 times, average 0.61 sec, max 1.87 sec, min 0.27 sec)
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.49% of total time (compiled   20 times, average 0.51 sec, max 1.12 sec, min 0.26 sec)
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.27% of total time (compiled   19 times, average 0.52 sec, max 1.69 sec, min 0.21 sec)
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.22% of total time (compiled    7 times, average 1.06 sec, max 1.71 sec, min 0.36 sec)
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.22% of total time (compiled    7 times, average 1.06 sec, max 1.72 sec, min 0.37 sec)
+[2026.06.25-10.03.54:323][515]LogShaderCompilers: Display: ================================================
+[2026.06.25-10.03.54:338][517]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.03.54:338][517]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.03.54:338][517]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.03.54:338][517]MaterialEditorStats: Shader Count: 2
+[2026.06.25-10.03.54:546][542]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2026.06.25-10.03.54:546][542]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2026.06.25-10.03.54:546][542]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.03.54:546][542]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.03.54:546][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.03.54:546][542]MaterialEditorStats: Shader Count: 6
+[2026.06.25-10.03.56:309][753]LogMaterialEditor: Applying material M_Sky_Level2
+[2026.06.25-10.03.56:355][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.25-10.03.57:065][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.06.25-10.03.59:041][902]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.25-10.03.59:046][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.25-10.03.59:046][902]PIE: New page: PIE session: Level_02 (25 Ιουν 2026, 4:03:59 μ.μ.)
+[2026.06.25-10.03.59:046][902]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_02
+[2026.06.25-10.03.59:048][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002170s)
+[2026.06.25-10.03.59:048][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_02.Level_02 to /Game/ThirdPerson/Maps/UEDPIE_0_Level_02.Level_02 (0.002203s)
+[2026.06.25-10.03.59:048][902]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.03.59:048][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-10.03.59:049][902]LogAIModule: Creating AISystem for world Level_02
+[2026.06.25-10.03.59:049][902]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2026.06.25-10.03.59:065][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.06.25-10.03.59:066][902]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.06.25-10.03.59:066][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.25-10.03.59:066][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.25-10.03.59:066][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.25-10.03.59:066][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.25-10.03.59:066][902]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.25-10.03.59:066][902]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.06.25-10.03.59:066][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.25-10.03.59:066][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.25-10.03.59:066][902]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.25-10.03.59:066][902]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.25-10.03.59:066][902]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.25-10.03.59:068][902]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.25-10.03.59:087][902]LogAudioMixer: Display: Using Audio Hardware Device (ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.06.25-10.03.59:087][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.25-10.03.59:087][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.25-10.03.59:087][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.25-10.03.59:087][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.06.25-10.03.59:087][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.06.25-10.03.59:089][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.06.25-10.03.59:089][902]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.06.25-10.03.59:089][902]LogInit: FAudioDevice initialized with ID 24.
+[2026.06.25-10.03.59:089][902]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level_02'.
+[2026.06.25-10.03.59:089][902]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.06.25-10.03.59:091][902]LogLoad: Game class is 'BP_SkyRelicGameMode_C'
+[2026.06.25-10.03.59:092][902]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2026.06.25-13.03.59
+[2026.06.25-10.03.59:093][902]LogWorld: Bringing up level for play took: 0.001165
+[2026.06.25-10.03.59:094][902]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.06.25-10.03.59:094][902]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.06.25-10.03.59:098][902]PIE: Server logged in
+[2026.06.25-10.03.59:098][902]PIE: Play in editor total start time 0,052 seconds.
+[2026.06.25-10.03.59:111][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:111][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:111][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:112][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:112][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:112][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:112][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:113][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:113][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:113][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:114][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:114][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:114][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:114][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:115][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:115][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.03.59:115][902]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.03:358][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.08:442][290]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.13:483][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:557][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.25-10.04.36:557][ 10]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_02
+[2026.06.25-10.04.36:557][ 10]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.04.36:558][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.04.36:561][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.25-10.04.36:563][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.04.36:579][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.25-10.04.36:579][ 10]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.06.25-10.04.36:579][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.06.25-10.04.36:581][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.06.25-10.04.36:586][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.25-10.04.36:672][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:673][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:673][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:673][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:673][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:674][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:674][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:674][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:674][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:675][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:675][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:675][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:676][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:676][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:676][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:676][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:677][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.36:689][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.06.25-10.04.42:439][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.06.25-10.04.44:605][427]LogSlate: Window 'Save Content' being destroyed
+[2026.06.25-10.04.44:615][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.25-10.04.44:684][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Sky_Level2" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/M_Sky_Level2.uasset" SILENT=true
+[2026.06.25-10.04.44:685][427]LogSavePackage: Moving output files for package: /Game/M_Sky_Level2
+[2026.06.25-10.04.44:686][427]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/M_Sky_Level29EF9BEAE4A07A29A56C34999657F82FB.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/M_Sky_Level2.uasset'
+[2026.06.25-10.04.44:690][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 9.27 sec)
+[2026.06.25-10.04.44:691][427]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Level_02.Level_02
+[2026.06.25-10.04.44:691][427]Cmd: MAP LOAD FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.06.25-10.04.44:691][427]LightingResults: New page: Lighting Build
+[2026.06.25-10.04.44:691][427]LoadErrors: New page: Loading map: Level_02.umap
+[2026.06.25-10.04.44:693][427]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.04.44:693][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.04.44:693][427]MapCheck: New page: Map Check
+[2026.06.25-10.04.44:693][427]LightingResults: New page: Lighting Build
+[2026.06.25-10.04.44:709][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.25-10.04.44:711][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.06.25-10.04.44:717][427]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2026.06.25-10.04.44:717][427]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.04.44:717][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-10.04.44:717][427]LogAIModule: Creating AISystem for world Level_02
+[2026.06.25-10.04.44:735][427]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.25-10.04.44:753][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.06.25-10.04.44:757][427]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.25-10.04.44:757][427]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,096ms to complete.
+[2026.06.25-10.04.44:757][427]LogFileHelpers: Loading map 'Level_02' took 0.065
+[2026.06.25-10.04.44:763][427]AssetCheck: New page: Asset Save: M_Sky_Level2
+[2026.06.25-10.04.44:763][427]LogContentValidation: Display: Validating /Script/Engine.Material /Game/M_Sky_Level2.M_Sky_Level2
+[2026.06.25-10.04.44:772][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:772][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:773][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:773][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:773][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:773][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:774][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:774][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:774][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:775][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:775][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:775][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:775][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:775][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:775][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:776][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.04.44:776][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.05.53:117][497]Cmd: SELECT NONE
+[2026.06.25-10.05.56:981][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.25-10.05.57:022][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Level_02" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.06.25-10.05.57:038][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.06.25-10.05.57:045][771]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_02
+[2026.06.25-10.05.57:045][771]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Level_02102C265C41CAD58399BD3897B6AE1D5F.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_02.umap'
+[2026.06.25-10.05.57:051][771]LogFileHelpers: Saving map 'Level_02' took 0.030
+[2026.06.25-10.05.57:056][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 9.35 sec)
+[2026.06.25-10.05.57:060][771]AssetCheck: New page: Asset Save: Level_02
+[2026.06.25-10.05.57:060][771]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_02.Level_02
+[2026.06.25-10.06.11:786][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.06.25-10.06.11:824][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.06.11:827][722]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Level_03.Level_03
+[2026.06.25-10.06.11:827][722]Cmd: MAP LOAD FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.06.25-10.06.11:827][722]LightingResults: New page: Lighting Build
+[2026.06.25-10.06.11:827][722]LoadErrors: New page: Loading map: Level_03.umap
+[2026.06.25-10.06.11:828][722]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.06.11:828][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.06.11:828][722]MapCheck: New page: Map Check
+[2026.06.25-10.06.11:828][722]LightingResults: New page: Lighting Build
+[2026.06.25-10.06.11:843][722]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.25-10.06.11:846][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.06.25-10.06.11:847][722]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.06.11:847][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.06.11:864][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.06.25-10.06.11:880][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.06.25-10.06.11:883][722]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03'.
+[2026.06.25-10.06.11:883][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.06.11:883][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-10.06.11:883][722]LogAIModule: Creating AISystem for world Level_03
+[2026.06.25-10.06.11:900][722]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.25-10.06.11:918][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.06.25-10.06.11:922][722]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.25-10.06.11:922][722]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2026.06.25-10.06.11:922][722]LogFileHelpers: Loading map 'Level_03' took 0.094
+[2026.06.25-10.06.11:939][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:940][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:940][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:940][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:941][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:941][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:941][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:941][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:942][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:942][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:942][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:943][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.11:943][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:082][103]Cmd: EDIT PASTE
+[2026.06.25-10.06.17:118][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:119][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:120][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:120][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:120][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:121][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:121][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:121][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:121][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:122][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:122][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:122][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:123][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.17:123][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.06.23:440][540]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.06.23:440][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.06.23:462][540]LogViewport: Scene viewport resized to 1070x916, mode Windowed.
+[2026.06.25-10.06.23:489][541]LogViewport: Scene viewport resized to 1070x905, mode Windowed.
+[2026.06.25-10.06.23:504][542]LogViewport: Scene viewport resized to 1070x897, mode Windowed.
+[2026.06.25-10.06.23:535][543]LogViewport: Scene viewport resized to 1070x888, mode Windowed.
+[2026.06.25-10.06.24:900][633]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.06.24:900][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.06.24:933][633]LogViewport: Scene viewport resized to 1070x908, mode Windowed.
+[2026.06.25-10.06.24:961][634]LogViewport: Scene viewport resized to 1070x898, mode Windowed.
+[2026.06.25-10.06.24:974][635]LogViewport: Scene viewport resized to 1070x890, mode Windowed.
+[2026.06.25-10.06.25:004][636]LogViewport: Scene viewport resized to 1070x888, mode Windowed.
+[2026.06.25-10.06.25:600][673]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.25-10.06.25:601][673]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.06.25:601][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.06.25:628][673]LogViewport: Scene viewport resized to 1070x913, mode Windowed.
+[2026.06.25-10.06.25:689][674]LogViewport: Scene viewport resized to 1070x888, mode Windowed.
+[2026.06.25-10.06.35:653][306]LogContentBrowser: Deferred new asset file creation: NewMaterial1
+[2026.06.25-10.06.35:662][306]LogContentBrowser: Creating deferred item: NewMaterial1
+[2026.06.25-10.06.35:670][307]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial1).
+[2026.06.25-10.06.41:454][707]LogContentBrowser: Attempting asset rename: NewMaterial1 -> M_Sky_Level3
+[2026.06.25-10.06.41:457][707]LogContentBrowser: End creating deferred item NewMaterial1
+[2026.06.25-10.06.43:169][811]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/M_Sky_Level3.M_Sky_Level3
+[2026.06.25-10.06.43:172][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.06.43:172][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-10.06.43:259][811]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.25-10.06.43:259][811]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.06.43:259][811]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.06.43:259][811]MaterialEditorStats: Shader Count: 0
+[2026.06.25-10.06.43:265][811]LogViewport: Scene viewport resized to 333x407, mode Windowed.
+[2026.06.25-10.06.43:302][812]LogViewport: Scene viewport resized to 333x399, mode Windowed.
+[2026.06.25-10.06.43:337][813]LogViewport: Scene viewport resized to 333x398, mode Windowed.
+[2026.06.25-10.06.43:581][827]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.06.43:581][827]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.06.43:581][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.06.43:581][827]MaterialEditorStats: Shader Count: 1
+[2026.06.25-10.06.43:693][833]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2026.06.25-10.06.43:693][833]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.06.43:693][833]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.06.43:693][833]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.06.43:693][833]MaterialEditorStats: Shader Count: 4
+[2026.06.25-10.06.43:787][838]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2026.06.25-10.06.43:787][838]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2026.06.25-10.06.43:787][838]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.06.43:787][838]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.06.43:787][838]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.06.43:787][838]MaterialEditorStats: Shader Count: 6
+[2026.06.25-10.06.49:845][162]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.25-10.06.49:845][162]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.06.49:845][162]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.06.49:845][162]MaterialEditorStats: Shader Count: 0
+[2026.06.25-10.06.50:306][188]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.06.50:306][188]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.06.50:306][188]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.06.50:306][188]MaterialEditorStats: Shader Count: 4
+[2026.06.25-10.06.50:401][193]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2026.06.25-10.06.50:401][193]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2026.06.25-10.06.50:401][193]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.06.50:401][193]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.06.50:401][193]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.06.50:401][193]MaterialEditorStats: Shader Count: 6
+[2026.06.25-10.06.59:237][672]LogMaterialEditor: Applying material M_Sky_Level3
+[2026.06.25-10.06.59:316][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: ================================================
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Total job queries 514, among them cache hits 247 (48.05%)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Tracking 265 distinct input hashes that result in 41 distinct outputs (15.47%)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: RAM used: 5,56 MiB of 1,60 GiB budget. Usage: 0.34%
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Shaders Compiled: 233
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Jobs assigned 235, completed 233 (99.15%)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Average time worker was idle: 247.47 s
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Time job spent in pending queue: average 0.28 s, longest 2.85 s
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 2.43 s
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Job life time (pending + execution): average 1.03 s, max 3.50
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 27.17 s
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Jobs were issued in 235 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Average processing rate: 8.57 jobs/sec
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Total thread time: 127,702 s
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Total thread preprocess time: 9,338 s
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Percentage time preprocessing: 7.31%
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Effective parallelization: 4.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 1.06 sec, max 1.71 sec, min 0.36 sec)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 1.06 sec, max 1.72 sec, min 0.37 sec)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    7 times, average 1.04 sec, max 1.69 sec, min 0.35 sec)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 1.04 sec, max 1.68 sec, min 0.35 sec)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 1.03 sec, max 1.67 sec, min 0.35 sec)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.08% of total time (compiled   26 times, average 0.54 sec, max 1.87 sec, min 0.27 sec)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.35% of total time (compiled   26 times, average 0.46 sec, max 1.12 sec, min 0.24 sec)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.74% of total time (compiled   24 times, average 0.46 sec, max 1.69 sec, min 0.21 sec)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.07% of total time (compiled   24 times, average 0.32 sec, max 1.47 sec, min 0.16 sec)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.83% of total time (compiled    7 times, average 1.06 sec, max 1.71 sec, min 0.36 sec)
+[2026.06.25-10.06.59:464][672]LogShaderCompilers: Display: ================================================
+[2026.06.25-10.06.59:784][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.06.25-10.06.59:793][672]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.06.59:793][672]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.06.59:793][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.06.59:793][672]MaterialEditorStats: Shader Count: 2
+[2026.06.25-10.07.00:284][700]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2026.06.25-10.07.00:284][700]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2026.06.25-10.07.00:284][700]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.25-10.07.00:284][700]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.25-10.07.00:284][700]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.25-10.07.00:284][700]MaterialEditorStats: Shader Count: 6
+[2026.06.25-10.07.00:410][707]LogMaterialEditor: Saving and Compiling material M_Sky_Level3
+[2026.06.25-10.07.00:411][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.25-10.07.00:905][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Sky_Level3" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/M_Sky_Level3.uasset" SILENT=true
+[2026.06.25-10.07.00:906][707]LogSavePackage: Moving output files for package: /Game/M_Sky_Level3
+[2026.06.25-10.07.00:906][707]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/M_Sky_Level3C797C462438E24226E6CDB9BF27BE716.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/M_Sky_Level3.uasset'
+[2026.06.25-10.07.00:913][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 502 ms (total: 9.85 sec)
+[2026.06.25-10.07.00:917][707]AssetCheck: New page: Asset Save: M_Sky_Level3
+[2026.06.25-10.07.00:917][707]LogContentValidation: Display: Validating /Script/Engine.Material /Game/M_Sky_Level3.M_Sky_Level3
+[2026.06.25-10.07.02:233][780]LogSlate: Window 'M_Sky_Level3' being destroyed
+[2026.06.25-10.07.02:247][780]LogSlate: Window 'M_Sky_Level3' being destroyed
+[2026.06.25-10.07.02:252][780]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.07.02:252][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.07.18:142][894]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.25-10.07.18:147][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.25-10.07.18:147][894]PIE: New page: PIE session: Level_03 (25 Ιουν 2026, 4:07:18 μ.μ.)
+[2026.06.25-10.07.18:148][894]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_03
+[2026.06.25-10.07.18:149][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001841s)
+[2026.06.25-10.07.18:150][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_03.Level_03 to /Game/ThirdPerson/Maps/UEDPIE_0_Level_03.Level_03 (0.001888s)
+[2026.06.25-10.07.18:150][894]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.07.18:150][894]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-10.07.18:150][894]LogAIModule: Creating AISystem for world Level_03
+[2026.06.25-10.07.18:150][894]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2026.06.25-10.07.18:168][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.06.25-10.07.18:174][894]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.06.25-10.07.18:174][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.25-10.07.18:174][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.25-10.07.18:174][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.25-10.07.18:174][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.25-10.07.18:174][894]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.25-10.07.18:174][894]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.06.25-10.07.18:174][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.25-10.07.18:174][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.25-10.07.18:174][894]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.25-10.07.18:174][894]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.25-10.07.18:174][894]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.25-10.07.18:176][894]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.25-10.07.18:195][894]LogAudioMixer: Display: Using Audio Hardware Device (ΗΧΕΙΑ) Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.06.25-10.07.18:196][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.25-10.07.18:196][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.25-10.07.18:196][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.25-10.07.18:196][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.06.25-10.07.18:196][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.06.25-10.07.18:198][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.06.25-10.07.18:198][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.06.25-10.07.18:198][894]LogInit: FAudioDevice initialized with ID 25.
+[2026.06.25-10.07.18:198][894]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level_03'.
+[2026.06.25-10.07.18:198][894]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.06.25-10.07.18:200][894]LogLoad: Game class is 'BP_SkyRelicGameMode_C'
+[2026.06.25-10.07.18:201][894]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2026.06.25-13.07.18
+[2026.06.25-10.07.18:201][894]LogWorld: Bringing up level for play took: 0.000748
+[2026.06.25-10.07.18:202][894]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.06.25-10.07.18:203][894]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2026.06.25-10.07.18:206][894]PIE: Server logged in
+[2026.06.25-10.07.18:207][894]PIE: Play in editor total start time 0,059 seconds.
+[2026.06.25-10.07.18:218][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:219][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:220][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:220][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:220][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:220][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:221][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:221][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:222][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:222][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:222][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:222][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:223][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:223][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:223][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:224][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.18:224][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.21:866][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.21:866][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.22:866][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.22:866][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.23:880][105]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:272][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.25-10.07.24:272][129]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_03
+[2026.06.25-10.07.24:272][129]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.07.24:272][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.07.24:285][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.25-10.07.24:287][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.07.24:303][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.25-10.07.24:303][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.06.25-10.07.24:303][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2026.06.25-10.07.24:305][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2026.06.25-10.07.24:310][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.06.25-10.07.24:336][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:336][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:337][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:337][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:337][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:337][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:338][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:338][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:338][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:338][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:339][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:339][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:339][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:339][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.25-10.07.24:354][130]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.06.25-10.07.32:405][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.06.25-10.07.32:424][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.06.25-10.07.33:658][621]LogSlate: Window 'Save Content' being destroyed
+[2026.06.25-10.07.33:664][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.25-10.07.33:694][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Level_03" FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.06.25-10.07.33:709][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.06.25-10.07.33:714][621]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_03
+[2026.06.25-10.07.33:715][621]LogSavePackage: Moving 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Saved/Level_038A3C154F4D2C3D06A1D3458778E5C418.tmp' to 'C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/Level_03.umap'
+[2026.06.25-10.07.33:721][621]LogFileHelpers: Saving map 'Level_03' took 0.028
+[2026.06.25-10.07.33:726][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 9.91 sec)
+[2026.06.25-10.07.33:753][621]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.07.33:755][621]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2026.06.25-10.07.33:755][621]Cmd: MAP LOAD FILE="C:/Users/Aorus/Documents/GitHub/SkyRelicRush/SRR/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.06.25-10.07.33:755][621]LightingResults: New page: Lighting Build
+[2026.06.25-10.07.33:755][621]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2026.06.25-10.07.33:757][621]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.07.33:757][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.07.33:757][621]MapCheck: New page: Map Check
+[2026.06.25-10.07.33:757][621]LightingResults: New page: Lighting Build
+[2026.06.25-10.07.33:772][621]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.25-10.07.33:773][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.06.25-10.07.33:775][621]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-10.07.33:775][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-10.07.33:792][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.06.25-10.07.33:809][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.25-10.07.33:815][621]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2026.06.25-10.07.33:815][621]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.25-10.07.33:815][621]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.25-10.07.33:815][621]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2026.06.25-10.07.33:816][621]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2026.06.25-10.07.33:816][621]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.25-10.07.33:816][621]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2026.06.25-10.07.33:834][621]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2026.06.25-10.07.33:834][621]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 1.03 sec)
+[2026.06.25-10.07.33:852][621]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.25-10.07.33:870][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.25-10.07.33:874][621]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.25-10.07.33:874][621]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,22ms to complete.
+[2026.06.25-10.07.33:874][621]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.118
+[2026.06.25-10.07.33:885][621]AssetCheck: New page: Asset Save: Level_03
+[2026.06.25-10.07.33:892][621]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
