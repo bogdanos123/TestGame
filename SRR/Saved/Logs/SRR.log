@@ -9736,3 +9736,108 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.06.26-15.28.26:261][314]LogLoad: Took 0.056350 seconds to LoadMap(/Game/ThirdPerson/Maps/ThirdPersonMap)
 [2026.06.26-15.28.26:267][314]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2026.06.26-15.28.26:286][315]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.31.22:586][ 53]LogViewport: Scene viewport resized to 1479x585, mode Windowed.
+[2026.06.26-15.31.22:621][ 57]LogViewport: Scene viewport resized to 1479x579, mode Windowed.
+[2026.06.26-15.31.22:640][ 59]LogViewport: Scene viewport resized to 1479x574, mode Windowed.
+[2026.06.26-15.31.22:669][ 61]LogViewport: Scene viewport resized to 1479x567, mode Windowed.
+[2026.06.26-15.31.22:693][ 63]LogViewport: Scene viewport resized to 1479x561, mode Windowed.
+[2026.06.26-15.31.22:717][ 65]LogViewport: Scene viewport resized to 1479x554, mode Windowed.
+[2026.06.26-15.31.22:740][ 67]LogViewport: Scene viewport resized to 1479x549, mode Windowed.
+[2026.06.26-15.31.22:763][ 69]LogViewport: Scene viewport resized to 1479x541, mode Windowed.
+[2026.06.26-15.31.22:786][ 71]LogViewport: Scene viewport resized to 1479x532, mode Windowed.
+[2026.06.26-15.31.22:811][ 73]LogViewport: Scene viewport resized to 1479x524, mode Windowed.
+[2026.06.26-15.31.22:842][ 76]LogViewport: Scene viewport resized to 1479x506, mode Windowed.
+[2026.06.26-15.31.22:861][ 78]LogViewport: Scene viewport resized to 1479x492, mode Windowed.
+[2026.06.26-15.31.22:890][ 80]LogViewport: Scene viewport resized to 1479x474, mode Windowed.
+[2026.06.26-15.31.22:914][ 82]LogViewport: Scene viewport resized to 1479x460, mode Windowed.
+[2026.06.26-15.31.22:938][ 84]LogViewport: Scene viewport resized to 1479x445, mode Windowed.
+[2026.06.26-15.31.22:960][ 86]LogViewport: Scene viewport resized to 1479x438, mode Windowed.
+[2026.06.26-15.31.22:983][ 88]LogViewport: Scene viewport resized to 1479x428, mode Windowed.
+[2026.06.26-15.31.23:005][ 90]LogViewport: Scene viewport resized to 1479x415, mode Windowed.
+[2026.06.26-15.31.23:044][ 92]LogViewport: Scene viewport resized to 1479x393, mode Windowed.
+[2026.06.26-15.31.23:066][ 94]LogViewport: Scene viewport resized to 1479x382, mode Windowed.
+[2026.06.26-15.31.23:087][ 96]LogViewport: Scene viewport resized to 1479x378, mode Windowed.
+[2026.06.26-15.31.23:109][ 98]LogViewport: Scene viewport resized to 1479x371, mode Windowed.
+[2026.06.26-15.31.23:137][101]LogViewport: Scene viewport resized to 1479x365, mode Windowed.
+[2026.06.26-15.31.23:155][103]LogViewport: Scene viewport resized to 1479x362, mode Windowed.
+[2026.06.26-15.31.23:180][105]LogViewport: Scene viewport resized to 1479x354, mode Windowed.
+[2026.06.26-15.31.23:199][107]LogViewport: Scene viewport resized to 1479x350, mode Windowed.
+[2026.06.26-15.31.23:218][109]LogViewport: Scene viewport resized to 1479x345, mode Windowed.
+[2026.06.26-15.31.23:238][111]LogViewport: Scene viewport resized to 1479x341, mode Windowed.
+[2026.06.26-15.31.23:257][113]LogViewport: Scene viewport resized to 1479x336, mode Windowed.
+[2026.06.26-15.31.23:276][115]LogViewport: Scene viewport resized to 1479x334, mode Windowed.
+[2026.06.26-15.31.23:296][117]LogViewport: Scene viewport resized to 1479x331, mode Windowed.
+[2026.06.26-15.31.23:315][119]LogViewport: Scene viewport resized to 1479x326, mode Windowed.
+[2026.06.26-15.31.23:334][121]LogViewport: Scene viewport resized to 1479x322, mode Windowed.
+[2026.06.26-15.31.23:353][123]LogViewport: Scene viewport resized to 1479x320, mode Windowed.
+[2026.06.26-15.31.23:371][125]LogViewport: Scene viewport resized to 1479x312, mode Windowed.
+[2026.06.26-15.31.23:408][129]LogViewport: Scene viewport resized to 1479x307, mode Windowed.
+[2026.06.26-15.31.23:426][131]LogViewport: Scene viewport resized to 1479x306, mode Windowed.
+[2026.06.26-15.31.23:451][133]LogViewport: Scene viewport resized to 1479x303, mode Windowed.
+[2026.06.26-15.31.23:470][135]LogViewport: Scene viewport resized to 1479x300, mode Windowed.
+[2026.06.26-15.31.23:513][140]LogViewport: Scene viewport resized to 1479x297, mode Windowed.
+[2026.06.26-15.31.23:538][143]LogViewport: Scene viewport resized to 1479x296, mode Windowed.
+[2026.06.26-15.31.23:707][163]LogViewport: Scene viewport resized to 1479x294, mode Windowed.
+[2026.06.26-15.31.38:234][447]LogViewport: Scene viewport resized to 983x191, mode Windowed.
+[2026.06.26-15.31.38:984][447]LogViewport: Scene viewport resized to 1074x292, mode Windowed.
+[2026.06.26-15.32.11:040][264]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2026.06.26-15.32.11:040][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.26-15.32.11:109][264]LogViewport: Scene viewport resized to 1074x300, mode Windowed.
+[2026.06.26-15.32.11:137][265]LogViewport: Scene viewport resized to 1074x297, mode Windowed.
+[2026.06.26-15.32.11:149][266]LogViewport: Scene viewport resized to 1074x295, mode Windowed.
+[2026.06.26-15.32.11:166][267]LogViewport: Scene viewport resized to 1074x292, mode Windowed.
+[2026.06.26-15.32.11:806][327]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2026.06.26-15.32.11:806][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.26-15.32.11:813][327]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2026.06.26-15.32.11:813][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.26-15.32.11:846][327]LogViewport: Scene viewport resized to 1074x300, mode Windowed.
+[2026.06.26-15.32.11:874][328]LogViewport: Scene viewport resized to 1074x296, mode Windowed.
+[2026.06.26-15.32.11:886][329]LogViewport: Scene viewport resized to 1074x294, mode Windowed.
+[2026.06.26-15.32.11:903][330]LogViewport: Scene viewport resized to 1074x292, mode Windowed.
+[2026.06.26-15.32.52:803][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.26-15.32.52:803][298]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.06.26-15.32.52:803][298]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.06.26-15.32.52:803][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.26-15.32.52:803][298]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2026.06.26-15.32.52:808][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.26-15.32.52:813][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.26-15.32.52:829][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.26-15.32.52:829][298]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2026.06.26-15.32.52:830][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2026.06.26-15.32.52:831][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2026.06.26-15.32.52:838][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.06.26-15.32.52:851][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:852][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:852][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:852][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:853][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:853][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:853][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:853][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:854][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:854][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:854][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:855][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:855][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:855][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:855][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:856][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:868][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:868][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:868][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:869][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:869][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:869][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:870][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:870][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:870][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:870][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:870][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:871][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:871][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:872][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:872][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:872][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.26-15.32.52:887][301]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2026.06.26-15.34.21:704][702]BlueprintLog: New page: Compile BP_SkyRelicGameMode
+[2026.06.26-15.34.21:737][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
